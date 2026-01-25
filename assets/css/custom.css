@@ -15,3 +15,8 @@ h1, .page-title, .page__title, .entry-title {
   font-weight: 800;
 }
 
+body {
+  font-family: "Nanum Gothic", system-ui, -apple-system, "Segoe UI",
+               "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+}
+
