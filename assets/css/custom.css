@@ -1,0 +1,17 @@
+/* Korean-friendly font for titles/headings */
+.page-title,
+.page__title,
+.entry-title,
+.site-title,
+h1, h2, h3 {
+  font-family: "Nanum Gothic", system-ui, -apple-system, "Segoe UI",
+               Roboto, "Apple SD Gothic Neo", "Malgun Gothic", sans-serif !important;
+  font-style: normal !important;   /* italic 끄기 */
+  letter-spacing: -0.02em;
+}
+
+/* Optional: make big titles a bit heavier */
+h1, .page-title, .page__title, .entry-title {
+  font-weight: 800;
+}
+

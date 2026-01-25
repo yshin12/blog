@@ -19,6 +19,7 @@ skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Playground"
 description: "Unsorted, for now."
+#description: "한글은 이런 느낌."
 baseurl: "/blog"
 url: "https://yshin12.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
