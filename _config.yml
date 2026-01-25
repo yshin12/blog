@@ -17,8 +17,8 @@
 remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
+title: "Playground"
+description: "Unsorted, for now."
 baseurl: "/blog"
 url: "https://yshin12.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
