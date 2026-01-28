@@ -1,4 +1,4 @@
-/* Korean-friendly font for titles/headings */
+/*! Korean-friendly font for titles/headings */
 .page-title,
 .page__title,
 .entry-title,
@@ -18,5 +18,10 @@ h1, .page-title, .page__title, .entry-title {
 body {
   font-family: "Nanum Gothic", system-ui, -apple-system, "Segoe UI",
                "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+}
+
+/* Center page titles (About, etc.) */
+.page-header {
+  text-align: center;
 }
 
