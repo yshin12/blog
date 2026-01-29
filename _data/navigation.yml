@@ -6,8 +6,8 @@
   url: /about/
 - title: post
   url: /post/
-# - title: Categories
-#   url: /categories/
+- title: categories
+  url: /categories/
 # - title: Tags
 #   url: /tags/
 # - title: about
