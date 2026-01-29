@@ -13,14 +13,14 @@ permalink: /about/
 모아두고자 합니다. 
 <br>
 
-## 주요 등장 인물
+### 주요 등장 인물
 - 동글이 
 - 햇님이 
 - 도담이
 - 진원  
 <br>
 
-## 달리기
+### Personal Bests
 
 | Distance | Time | Pace | Date | Race |
 |---|---:|---:|---|---|
