@@ -10,7 +10,7 @@ permalink: /about/
 가족, 책, 영화, 달리기, 평범한 일상을 가볍게 모아둡니다.
 <br>
 
-### Personal Bests
+달리기 기록입니다.
 
 | Distance      | Time      | Date          | Race |
 |:---|---:|:---:|:---|
