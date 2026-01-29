@@ -8,14 +8,6 @@ permalink: /about/
 여기는 Playground입니다.  
 
 가족, 책, 영화, 달리기, 평범한 일상을 가볍게 모아둡니다.
-
-<br>
-
-### 주요 등장 인물
-- 동글이 
-- 햇님이 
-- 도담이
-- 진원  
 <br>
 
 ### Personal Bests
