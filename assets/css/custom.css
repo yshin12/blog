@@ -25,3 +25,25 @@ body {
   text-align: center;
 }
 
+
+.entry-content:lang(ko),
+.entry-content:lang(ko) p {
+  line-height: 2.0;
+}
+
+
+/* one-and-half*/
+.page-content,
+.entry-content,
+.page__content,
+.post-content,
+.article-content {
+  line-height: 1.7;
+}
+
+/* (optional) paragraph spacing too */
+.page-content p,
+.entry-content p,
+.page__content p {
+  margin-bottom: 1.2em;
+}
