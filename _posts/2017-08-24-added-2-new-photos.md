@@ -1,0 +1,11 @@
+---
+title: "신영기 added 2 new photos."
+categories:
+  - facebook
+---
+
+'바닥에서 천장까지 닿는 책장이 보기 좋던데 한번 만들어볼까?'하고 아무 생각없이 시작한 두 번째 프로젝트가 드디어 끝났다. 지루하고 '더티'한 작업이긴 하지만, 내 손으로 디자인하고 만드는 소소한 재미가 있었다.
+
+![]({{ '/assets/facebook/20170824_1503541101_01.jpg' | relative_url }})
+
+![]({{ '/assets/facebook/20170824_1503541101_02.jpg' | relative_url }})

@@ -1,0 +1,23 @@
+---
+layout: post
+title: "신영기 shared a link."
+date: 2017-09-28 17:39:07 +0000
+facebook_timestamp: 1506620347
+facebook_title: "신영기 shared a link."
+slug: "shared-a-link"
+---
+
+1. 글쎄 이 비디오를 보고 기분이 좋아지지 않을 사람이 있을까? 자주 써먹으면 안되지만 잘 아껴뒀다가 힘들 때 한번씩 보면 힘이 되는 비디오. 이 비디오가 그해 유툽 10에 든 이후로 많이 청혼 플레시 몹 비디오들이 쏟아져나왔다. 
+
+https://www.youtube.com/watch?v=5_v7QrIW0zY
+
+2. 이 비디오에서 청혼을 받은 Amy는 그저 행복해하는 모습만 나온다. 그런데,  나중에 다른 비디오를 보니까 이 여자도 노래와 끼가 장난이 아니다. 아래 비디오, 첫 소절 나오는데 벌써, 아 프로의 향기가...이 커플은 청혼 후 2년이 지난  2014년에 결혼을 했다는데, Amy가 간호학교를 졸업할 때까지 기다렸다고. 졸업식 축사를 노래와 춤으로 하는데, 역시 프로의 향기가...
+
+https://www.youtube.com/watch?v=vHaKuKT9AnE
+
+https://www.youtube.com/watch?v=3mkCBdBNZfA
+
+3. 이 사람들을 보면 사람이 참 구김살이 없고 밝다. 이렇게 밝은 기운의 사람들을 가끔 보는데, 대개의 경우 부모 중 최소한 한 사람이 매우 유머러스한 경우가 많았다. "오늘은 어떻게 애들을 한번 웃겨봐야겠다"는 엉뚱한 결론으로 마무리.
+
+## Links
+- https://www.youtube.com/watch?v=5_v7QrIW0zY

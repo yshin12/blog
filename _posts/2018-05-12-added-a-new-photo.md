@@ -1,0 +1,9 @@
+---
+title: "신영기 added a new photo."
+categories:
+  - facebook
+---
+
+동글이가 교내 육상 대회 100m, 200m, 멀리 뛰기에서 순위권에 들었다. 새 운동화를 사면 늘 두 달이 안가서 '빵꾸'를 내오던 녀석이 사실은 스프린터의 자질을??
+
+![]({{ '/assets/facebook/20180512_1526098739_01.jpg' | relative_url }})

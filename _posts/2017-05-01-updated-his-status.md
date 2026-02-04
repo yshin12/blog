@@ -1,0 +1,17 @@
+---
+title: "신영기 updated his status."
+categories:
+  - facebook
+---
+
+피카타(Picatta)라는 생소한 음식 이름을 각기 다른 식당에서 이틀 사이에 두 번 접하고 궁금함을 이기지 못해 먹어봤다. 메뉴의 설명은 다음과 같다.
+
+---------
+Chicken Picatta, 20
+
+Capers, red peppers, artichokes, red onion, white wine lemon sauce, wild rice, market vegetables
+---------
+
+그러니까 기본적으로 '피카타가 뭔지는 알지?'하는 분위기인데, 나같은 촌놈은 당연히 알리가 없는데다 공부를 해서 먹으러 가는 게 아니므로 실재 음식을 받고 당황하는 경우가 꽤 있다. 무식하면 용감하다고...
+
+그래서 다 먹고 집에 와서 뒷북 공부. 피카타는 얇게 저민 고기를 살짝 볶듯이 튀긴 다음, 버터에 레몬을 듬뿍 넣고 만든 소스를 뿌리거나 조려서 만든 음식이라고 한다. 밥이나 파스타 위에 올려내는 건 북미에서 주로 하는 방식이라고 함.

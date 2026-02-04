@@ -1,0 +1,13 @@
+---
+title: "신영기 added 3 new photos."
+categories:
+  - facebook
+---
+
+11월의 마지막 날이다. 좀 무리했다고 대상포진에 걸리고, 연구는 대체로 지지부진했다. 하지만 달리기를 꾸준히 하고 싶다는 햇님이와 아침에, 그리고 저녁 식사 준비 전에 30분, 여건이 되는 대로 꾸준히 달렸다. 11월 한달 동안 112.75 km를 달렸다고 한다. 그 사이 계절이 바뀌었다.
+
+![]({{ '/assets/facebook/20211201_1638334817_01.jpg' | relative_url }})
+
+![]({{ '/assets/facebook/20211201_1638334817_02.jpg' | relative_url }})
+
+![]({{ '/assets/facebook/20211201_1638334817_03.jpg' | relative_url }})

@@ -1,0 +1,15 @@
+---
+title: "신영기 added a new photo."
+categories:
+  - facebook
+---
+
+지난 금요일부터 햇님이가 인후염 증세를 보였다. 교육청 지침에 따라 햇님이와 도담이 모두 월화 양일간 결석하고, Rapid strep test와 Covid-19 test를 받았다. 
+
+모두 음성 결과를 받고, 발열 증세가 사라지고 24시간이 지난 오늘에서야 등교했다. 
+
+-
+
+집에서 지내는 동안 아이들과 만든 초코렛 쿠키.
+
+![]({{ '/assets/facebook/20210915_1631718859_01.jpg' | relative_url }})

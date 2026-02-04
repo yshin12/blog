@@ -1,0 +1,9 @@
+---
+title: "신영기 added a new photo."
+categories:
+  - facebook
+---
+
+아무 일도 안하고 가족과 보내는 주말 점심. 윗빅스 + 허무스 + 치즈 + 시금치 + 아보카도 + 망고 + 훈제연어 + 캐슈넛. 여덟 개를 만들어 다섯 식구가 순식간에 먹어치웠다.
+
+![]({{ '/assets/facebook/20170304_1488617929_01.jpg' | relative_url }})

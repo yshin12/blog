@@ -1,0 +1,9 @@
+---
+title: "신영기 added a new photo."
+categories:
+  - facebook
+---
+
+2주 전만 해도 20도를 웃돌던 기온이 뚝 떨어져 첫눈이 왔다. 친구들과 눈싸움하며 놀 생각에 도담이만 신이 나서, 아침부터 이리뛰고 저리뛰고 방방거렸다.
+
+![]({{ '/assets/facebook/20221119_1668831126_01.jpg' | relative_url }})

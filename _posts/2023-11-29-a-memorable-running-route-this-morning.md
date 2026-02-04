@@ -1,0 +1,15 @@
+---
+title: "A memorable running route this morning."
+categories:
+  - facebook
+---
+
+A memorable running route this morning.
+
+![]({{ '/assets/facebook/20231129_1701229849_01.jpg' | relative_url }})
+
+![]({{ '/assets/facebook/20231129_1701229849_02.jpg' | relative_url }})
+
+![]({{ '/assets/facebook/20231129_1701229849_03.jpg' | relative_url }})
+
+![]({{ '/assets/facebook/20231129_1701229849_04.jpg' | relative_url }})

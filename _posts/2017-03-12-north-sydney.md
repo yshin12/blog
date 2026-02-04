@@ -1,0 +1,9 @@
+---
+title: "버스를 잘못타는 바람에 North Sydney에서 기차를 갈아타고 왔다. 덕분에 비현실적이고 몽환적인 핑크색 일출을 보는 행운을."
+categories:
+  - facebook
+---
+
+버스를 잘못타는 바람에 North Sydney에서 기차를 갈아타고 왔다. 덕분에 비현실적이고 몽환적인 핑크색 일출을 보는 행운을.
+
+![]({{ '/assets/facebook/20170312_1489349769_01.jpg' | relative_url }})
