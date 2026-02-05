@@ -45,7 +45,7 @@ liquid:
   error_mode: strict
 
 # Build settings
-permalink: /:categories/:title/
+ppermalink: /:categories/:year/:month/:day/:title
 markdown: kramdown
 feed:
   path: atom.xml
