@@ -1,7 +1,7 @@
 ---
-title: "신영기 updated his status."
-categories:
-  - facebook
+title: "주세요"
+date: "2020-07-25"
+category: facebook
 ---
 
 진원이 지난 번 포스팅에 애들 한국말 못하는 게 좀 창피하다길래 한국어를 조금씩이라도 가르치기로 결심. 각 잡고 가르치면 또 일주일하고 포기할 것이 뻔하기 때문에, 내가 애들에게 모든 말을 한국어로 하기로 했다. 

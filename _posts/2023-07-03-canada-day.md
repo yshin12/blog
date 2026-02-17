@@ -1,7 +1,7 @@
 ---
-title: "Canada Day"
-categories:
-  - facebook
+title: "행사"
+date: "2023-07-03"
+category: facebook
 ---
 
 지난 7월 1일은 Canada Day였다. 그러고 보니, 호주에 있을 때도 건국 기념일을 Australia Day라고 불렀다. 영국에서 독립한 미국만 7월 4일을 Independence Day라고 하고 영연방에 남아 있는 국가들은 대개 국가 이름을 붙여서 기념하는 듯. 찾아보니, 비슷하게 New Zealand Day도 있네. 

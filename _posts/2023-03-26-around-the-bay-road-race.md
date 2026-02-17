@@ -1,7 +1,7 @@
 ---
-title: "<Around the Bay Road Race>"
-categories:
-  - facebook
+title: "대회"
+date: "2023-03-26"
+category: facebook
 ---
 
 <Around the Bay Road Race>

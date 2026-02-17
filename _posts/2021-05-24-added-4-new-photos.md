@@ -1,7 +1,7 @@
 ---
-title: "신영기 added 4 new photos."
-categories:
-  - facebook
+title: "접종"
+date: "2021-05-24"
+category: facebook
 ---
 
 1. 3월 말부터 줄줄이 이어지는 생일 파티가 거의 막바지에 접어들었다. 오늘은 햇님이의 11번째 생일. BBQ Pooled Pork Bun을 먹고 싶다고 해서 진원이 만들었다. 

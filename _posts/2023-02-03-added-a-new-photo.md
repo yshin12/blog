@@ -1,7 +1,7 @@
 ---
-title: "신영기 added a new photo."
-categories:
-  - facebook
+title: "짧"
+date: "2023-02-03"
+category: facebook
 ---
 
 최근 미국에 있는 모 대학으로부터 꽤 좋은 조건으로 이직 제안을 받았다. 우리집 관례에 따라 아이들에게 그 지역에 대해 설명해주고 선호를 물었다. 

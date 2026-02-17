@@ -1,7 +1,7 @@
 ---
-title: "지난 토요일 Orchard Community Parkrun에서 바코드 스캐닝 자원봉사를 했다. 한 참가자가 자기 바코드를 내밀며 말하길"
-categories:
-  - facebook
+title: "바코드"
+date: "2025-06-30"
+category: facebook
 ---
 
 지난 토요일 Orchard Community Parkrun에서 바코드 스캐닝 자원봉사를 했다. 한 참가자가 자기 바코드를 내밀며 말하길

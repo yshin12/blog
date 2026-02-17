@@ -1,7 +1,7 @@
 ---
-title: "신영기 added a new photo."
-categories:
-  - facebook
+title: "동글"
+date: "2024-01-11"
+category: facebook
 ---
 
 아이들은 어제도 오늘도 똑같은 모습이지만, 몇 년 지나고 나면 훌쩍 커버린다. 기억에서 사라져버리는 시간들을 아쉬워서, 어떻게든 기록으로 남겨놓으려고 애썼다. 요즘들어 그 예전 기록들을 하나씩 본다. 

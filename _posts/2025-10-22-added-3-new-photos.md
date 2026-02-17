@@ -1,7 +1,7 @@
 ---
-title: "신영기 added 3 new photos."
-categories:
-  - facebook
+title: "마라톤"
+date: "2025-10-22"
+category: facebook
 ---
 
 지난 10월 12일에 시카고 마라톤을 뛰었다. 이번 기록으로 보스턴 마라톤 참가 자격을 얻을 수도 있겠다. 무엇보다도 뛰는 중간에 한번도 정신력이 무너지지 않은 점이 너무 좋았다.

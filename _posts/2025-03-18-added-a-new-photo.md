@@ -1,7 +1,7 @@
 ---
-title: "신영기 added a new photo."
-categories:
-  - facebook
+title: "명상"
+date: "2025-03-18"
+category: facebook
 ---
 
 언젠가부터 밀턴의 실내 트랙을 달리고 차를 몰고 집으로 돌아오는 시간이 좋다. 늦은 시각의 시골길이라 주위는 깜깜하고, 운동에 샤워까지 해서 노곤해진 몸은, 뭐랄까, 그저 아무 생각도 들지 않게 만든다.

@@ -1,7 +1,7 @@
 ---
-title: "신영기 added 4 new photos."
-categories:
-  - facebook
+title: "목단"
+date: "2025-06-09"
+category: facebook
 ---
 
 새로운 것 먹어보길 좋아하는 동글이를 위해서 점심에 Saving Thyme이라는 동네 French Bistro에 갔다. 이것저것 시켰는데, 역시 빵종류가 들어가는 음식이 좋았다. 케익이나 타르트같은 디저트에 진심인 가게라서 그런지도. 

@@ -1,7 +1,7 @@
 ---
-title: "신영기 added 2 new photos."
-categories:
-  - facebook
+title: "마라톤"
+date: "2024-10-22"
+category: facebook
 ---
 
 지난 일요일, 2024 토론토 워터프론트 마라톤을 달렸다. 구름 한점 없는 화창한 날씨, 적절한 기온, 에너지 넘치는 응원까지, 한마디로 멋진 대회였다. 

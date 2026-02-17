@@ -1,7 +1,7 @@
 ---
-title: "<Penn State/Princeton 여행일지: 5-7일째>"
-categories:
-  - facebook
+title: "논문"
+date: "2022-11-01"
+category: facebook
 ---
 
 <Penn State/Princeton 여행일지: 5-7일째>

@@ -1,7 +1,7 @@
 ---
-title: "** Movie Night: Inside Out **"
-categories:
-  - facebook
+title: "모습"
+date: "2024-08-02"
+category: facebook
 ---
 
 ** Movie Night: Inside Out **

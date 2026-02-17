@@ -1,7 +1,7 @@
 ---
-title: "신영기 updated his status."
-categories:
-  - facebook
+title: "아이"
+date: "2024-09-22"
+category: facebook
 ---
 
 돌이켜보면 대략 5년 정도 터울을 두고 내 일의 방향을 정해봤던 것 같다. 지난 여름, 고민하며 조용하게 시간을 보냈는데, 이제 향후 5년 동안 뭘 하고 싶은지 구체적인 그림이 그려졌다. 그동안 잘 해왔으니 앞으로도 잘 되겠지. 

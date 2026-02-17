@@ -1,7 +1,7 @@
 ---
-title: "어떤 사람이 decision theory를 잘못 적용했길래..."
-categories:
-  - facebook
+title: "확률"
+date: "2021-09-03"
+category: facebook
 ---
 
 어떤 사람이 decision theory를 잘못 적용했길래...

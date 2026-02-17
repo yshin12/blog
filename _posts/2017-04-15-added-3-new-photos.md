@@ -1,7 +1,7 @@
 ---
-title: "신영기 added 3 new photos."
-categories:
-  - facebook
+title: "비행기"
+date: "2017-04-15"
+category: facebook
 ---
 
 연이은 항공사 이야기. 내가 특별히 비행기를 많이 타고 다닌 것도 아닌데 기억에 남는 에피소드가 아직 여럿 있는 걸 보면, 비행기 결항/연착이 상당히 자주 있는 일이거나 내가 운이 없었던 듯.

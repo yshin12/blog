@@ -1,7 +1,7 @@
 ---
-title: "신영기 added a new photo."
-categories:
-  - facebook
+title: "장수"
+date: "2022-02-03"
+category: facebook
 ---
 
 동글이에게 기초적인 투자 이론을 가르치기 시작했다. 그냥하면 재미없으니까, 기초적인 내용을 숙지한 후, 꼬깃꼬깃 상자에 모아둔 본인 쌈짓돈으로 자신이 고른 자산을 사주기로 했다. 옆에 있던 햇님이도 동참. 

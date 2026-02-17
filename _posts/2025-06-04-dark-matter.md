@@ -1,7 +1,7 @@
 ---
-title: "Dark Matter"
-categories:
-  - facebook
+title: "라"
+date: "2025-06-04"
+category: facebook
 ---
 
 Blake Crouch의 소설. 애플 TV에서 드라마로도 제작했다. 실은 유튜브에서 줄거리를 요약해 놓은 걸 보고 흥미로운 구석이 있어서 읽기 시작했다. 

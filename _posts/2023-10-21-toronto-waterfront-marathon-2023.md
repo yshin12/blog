@@ -1,7 +1,7 @@
 ---
-title: "<Toronto Waterfront Marathon 2023>"
-categories:
-  - facebook
+title: "결승선"
+date: "2023-10-21"
+category: facebook
 ---
 
 <Toronto Waterfront Marathon 2023>

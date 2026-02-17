@@ -1,7 +1,7 @@
 ---
-title: "신영기 added 2 new photos."
-categories:
-  - facebook
+title: "전공"
+date: "2018-06-20"
+category: facebook
 ---
 
 5월 초였지 싶다. 애들 재우고 둘이서 식탁에 앉아 이런저런 얘기를 나누었다. 그러던 중에 진원이 양푼을 엎어놓고 'Play Doh'라고 도담이가 가지고 노는 점토를 이리저리 붙이기 시작했다. 다음 작품 컨셉이라며...

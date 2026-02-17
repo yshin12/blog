@@ -1,7 +1,7 @@
 ---
-title: "신영기 added 4 new photos."
-categories:
-  - facebook
+title: "익숙한"
+date: "2022-12-09"
+category: facebook
 ---
 
 일주일 사이, 겨울비 내리는 몬트리올과 햇살 가득한 남부 캘리포니아를 다녀왔다. 새벽비를 맞으며 익숙한 올드 포트 거리를 달리는 느낌도 좋았고, 야자수 사이로 쏟아지는 밝은 햇살도 좋았다. 

@@ -1,7 +1,7 @@
 ---
-title: "신영기 added 3 new photos."
-categories:
-  - facebook
+title: "Yukon"
+date: "2025-06-11"
+category: facebook
 ---
 
 Yukon을 방문했던 진원이 오늘 새벽 집에 돌아왔다. Red-eye flight를 타고 오느라 피곤했을텐데, 8일 만에 엄마를 본 세 아이들이 등교전까지 수다수다....

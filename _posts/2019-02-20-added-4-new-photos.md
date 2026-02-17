@@ -1,7 +1,7 @@
 ---
-title: "신영기 added 4 new photos."
-categories:
-  - facebook
+title: "빠지"
+date: "2019-02-20"
+category: facebook
 ---
 
 지난 월요일은 Family Day라서 공휴일이었다. 캐나다에 꽤나 오래 살았는데도 아직 언제가 휴일인지 잘 모른다. 수업만 없으면 내가 쉬고싶은 날이 휴일이라 그런가? 아이들은 학교 빠지는 날이면 좋아서 어쩔 줄을 모른다. Snow Day라 빠지고, PA Day라 빠지고, 가뜩이나 날 수 적은 2월인데 학교 간 날이랑 안 간 날이랑 비슷할 듯.

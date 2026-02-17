@@ -1,7 +1,7 @@
 ---
-title: "신영기 added 2 new photos."
-categories:
-  - facebook
+title: "divisible"
+date: "2023-02-21"
+category: facebook
 ---
 
 1. 오랜만에 본인 사진 투척. 컬럼비아 대학 SIPA 빌딩에서 점심 먹으러 나갈 때, 매번 건너던 육교(?)인데, 저곳이 Broadway가 멀리까지 직선으로 내려다 보이는, 숨겨진 관광 명소라는 사실을 뒤늦게 깨달았다. 

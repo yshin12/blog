@@ -1,7 +1,7 @@
 ---
-title: "이번주 노동요는 Maurice Ravel Series로."
-categories:
-  - facebook
+title: "노동요"
+date: "2017-03-15"
+category: facebook
 ---
 
 이번주 노동요는 Maurice Ravel Series로. 

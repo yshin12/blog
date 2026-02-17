@@ -1,7 +1,7 @@
 ---
-title: "<A series of decisions and a set of memories>"
-categories:
-  - facebook
+title: "인생"
+date: "2023-02-08"
+category: facebook
 ---
 
 <A series of decisions and a set of memories>

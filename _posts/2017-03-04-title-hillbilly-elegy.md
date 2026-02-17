@@ -1,7 +1,7 @@
 ---
-title: "Title: Hillbilly Elegy"
-categories:
-  - facebook
+title: "저자"
+date: "2017-03-04"
+category: facebook
 ---
 
 Title: Hillbilly Elegy  

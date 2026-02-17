@@ -1,7 +1,7 @@
 ---
-title: "신영기 added a new photo."
-categories:
-  - facebook
+title: "포티"
+date: "2017-04-02"
+category: facebook
 ---
 
 아이들 나이 터울이 지다 보니 농담으로 '십 년째 기저귀를 갈고 있다'고 말하곤 했는데, 이제 기저귀가 가는 일도 막내의 배변훈련을 끝으로 일단락이 되는 분위기다.

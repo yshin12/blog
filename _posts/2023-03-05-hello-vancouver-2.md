@@ -1,7 +1,7 @@
 ---
-title: "<Hello Vancouver 2>"
-categories:
-  - facebook
+title: "폭설"
+date: "2023-03-05"
+category: facebook
 ---
 
 <Hello Vancouver 2>

@@ -1,10 +1,7 @@
 ---
-layout: post
-title: "<Around the Bay Road Race>"
-date: 2023-03-26 22:32:24 +0000
-facebook_timestamp: 1679869944
-facebook_title: "신영기 added 3 new photos."
-slug: "around-the-bay-road-race"
+title: "대회"
+date: "2023-03-26 22:32:24 +0000"
+category: facebook
 ---
 
 <Around the Bay Road Race>

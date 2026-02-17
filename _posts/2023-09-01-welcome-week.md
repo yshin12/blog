@@ -1,7 +1,7 @@
 ---
-title: "<Welcome Week>"
-categories:
-  - facebook
+title: "환영"
+date: "2023-09-01"
+category: facebook
 ---
 
 <Welcome Week>

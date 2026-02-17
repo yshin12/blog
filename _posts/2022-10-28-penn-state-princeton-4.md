@@ -1,7 +1,7 @@
 ---
-title: "<Penn State/Princeton 여행일지: 4일째>"
-categories:
-  - facebook
+title: "사주시"
+date: "2022-10-28"
+category: facebook
 ---
 
 <Penn State/Princeton 여행일지: 4일째>

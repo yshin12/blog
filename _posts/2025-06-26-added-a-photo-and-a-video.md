@@ -1,7 +1,7 @@
 ---
-title: "신영기 added a photo and a video."
-categories:
-  - facebook
+title: "소리"
+date: "2025-06-26"
+category: facebook
 ---
 
 뒷마당에서 항상 우는 새가 있다. (아래 비디오에). 잘 보이지도 않고, 무슨 종류인지 알 수가 없어서 Youtube에 북미에 사는 새들 울음 소리를 찾아봤다. 

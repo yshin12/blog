@@ -1,10 +1,7 @@
 ---
-layout: post
-title: "신영기 shared a link."
-date: 2020-02-20 05:37:07 +0000
-facebook_timestamp: 1582177027
-facebook_title: "신영기 shared a link."
-slug: "shared-a-link"
+title: "원주민"
+date: "2020-02-20 05:37:07 +0000"
+category: facebook
 ---
 
 요즘 캐나다에서 일면 뉴스는 코로나19가 아니라 2주째 계속되고 있는 원주민의 철도봉쇄다. 자신들 거주 지역에 천연가스 파이프라인이 지나는 걸 반대하며 점거농성을 하던 원주민들이 경찰에 연행되고, 이에 화가 난 캐나다의 다른 원주민 및 연대자들이 간선 철도를 막고 농성을 시작했다. 

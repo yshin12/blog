@@ -1,7 +1,7 @@
 ---
-title: "<Women in Econometrics>"
-categories:
-  - facebook
+title: "육아"
+date: "2022-10-20"
+category: facebook
 ---
 
 <Women in Econometrics>

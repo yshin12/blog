@@ -1,7 +1,7 @@
 ---
-title: "Awenda Provincial Park에 캠핑을 다녀왔다. 이틀 내내 해변에서 벌어진 풍경."
-categories:
-  - facebook
+title: "수영"
+date: "2021-08-16"
+category: facebook
 ---
 
 Awenda Provincial Park에 캠핑을 다녀왔다. 이틀 내내 해변에서 벌어진 풍경.

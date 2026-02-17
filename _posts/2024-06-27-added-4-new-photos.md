@@ -1,7 +1,7 @@
 ---
-title: "신영기 added 4 new photos."
-categories:
-  - facebook
+title: "포르투갈"
+date: "2024-06-27"
+category: facebook
 ---
 
 포르투갈의 브라가에서 며칠 머물게 되었다. 시간이 허락하는대로 동네를 뛰어다녔더니, 중세의 유적 뿐 아니라, 노을, 도시 구석에 위치한 가난의 흔적, 그리고 일출까지 모두 볼 수 있었다. 

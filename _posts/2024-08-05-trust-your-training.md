@@ -1,7 +1,7 @@
 ---
-title: "** Trust Your Training **"
-categories:
-  - facebook
+title: "Trust"
+date: "2024-08-05"
+category: facebook
 ---
 
 ** Trust Your Training **

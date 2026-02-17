@@ -1,7 +1,7 @@
 ---
-title: "신영기 added 5 new photos."
-categories:
-  - facebook
+title: "페인트"
+date: "2020-07-02"
+category: facebook
 ---
 
 코로나19로 집에서 지내는 시간이 많아서였는지, 진원이 갑자기 뒷마당 덱을 수리하겠다고 나섰다. 페인트가 벗겨진 부분만 수선할 계획이었으나 항상 일이란 계획대로 되지 않는 법. 

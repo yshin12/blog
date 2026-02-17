@@ -1,7 +1,7 @@
 ---
-title: "신영기 added a new photo."
-categories:
-  - facebook
+title: "증세"
+date: "2021-09-15"
+category: facebook
 ---
 
 지난 금요일부터 햇님이가 인후염 증세를 보였다. 교육청 지침에 따라 햇님이와 도담이 모두 월화 양일간 결석하고, Rapid strep test와 Covid-19 test를 받았다. 

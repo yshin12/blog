@@ -1,7 +1,7 @@
 ---
-title: "신영기 added 2 photos and a video."
-categories:
-  - facebook
+title: "뒤"
+date: "2025-07-14"
+category: facebook
 ---
 
 집에 CNC machine이 생겼다. 진원이 첫 작업으로 달리기 메달 뒤에 이름과 기록을 새겨줬다. 여기는 대회 참가할 때, 10불 정도 추가 비용을 지불하면 금속판에 이름과 기록을 새겨서 보내주는데, 메달 뒤에 붙일 수 있게 되어 있다. 우리는 따로 금속판을 덧댈 일이 없어서 메달 뒤에 바로 새겼다. 

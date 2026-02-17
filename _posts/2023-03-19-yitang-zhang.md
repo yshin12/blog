@@ -1,7 +1,7 @@
 ---
-title: "<리만 가설과 Yitang Zhang>"
-categories:
-  - facebook
+title: "강사"
+date: "2023-03-19"
+category: facebook
 ---
 
 <리만 가설과 Yitang Zhang>

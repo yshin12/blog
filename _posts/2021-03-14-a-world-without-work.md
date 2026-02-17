@@ -1,7 +1,7 @@
 ---
-title: "<A World without Work>"
-categories:
-  - facebook
+title: "노동"
+date: "2021-03-14"
+category: facebook
 ---
 
 <A World without Work>

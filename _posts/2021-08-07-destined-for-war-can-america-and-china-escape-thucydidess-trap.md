@@ -1,7 +1,7 @@
 ---
-title: "Destined For War: Can America and China Escape Thucydides’s Trap"
-categories:
-  - facebook
+title: "전쟁"
+date: "2021-08-07"
+category: facebook
 ---
 
 Destined For War: Can America and China Escape Thucydides’s Trap

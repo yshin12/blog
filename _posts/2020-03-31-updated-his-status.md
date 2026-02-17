@@ -1,7 +1,7 @@
 ---
-title: "신영기 updated his status."
-categories:
-  - facebook
+title: "자석"
+date: "2020-03-31"
+category: facebook
 ---
 
 호주의 한 천체물리학자가 코로나바이러스 사태를 도우려고, 무의식적으로 얼굴에 손을 가져가면 반응을 하는 장치를 자석으로 만들어보려고 했으나 실패.

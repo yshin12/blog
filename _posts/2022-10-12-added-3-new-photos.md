@@ -1,7 +1,7 @@
 ---
-title: "신영기 added 3 new photos."
-categories:
-  - facebook
+title: "윤우"
+date: "2022-10-12"
+category: facebook
 ---
 
 지난 화요일에 도윤이와 윤우의 크로스 컨트리 대회가 있어서 다녀왔다. Halton 지역 모든 초등학교에서 뛰고 싶은 아이들은 모두 참가할 수 있는 대회다. 등수나 경쟁보다는 동네 운동회 같은 분위기였다. 

@@ -1,7 +1,7 @@
 ---
-title: "저녁 식사 후, 혼신의 힘을 다해 아이들과 Freeze Tag(얼음땡) 놀이를 하고 돌아왔다."
-categories:
-  - facebook
+title: "혼신"
+date: "2020-07-31"
+category: facebook
 ---
 
 저녁 식사 후, 혼신의 힘을 다해 아이들과 Freeze Tag(얼음땡) 놀이를 하고 돌아왔다.

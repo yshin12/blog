@@ -1,7 +1,7 @@
 ---
-title: "<Deaths of Dispear and the Future of Capitalism>"
-categories:
-  - facebook
+title: "죽음"
+date: "2021-03-07"
+category: facebook
 ---
 
 <Deaths of Dispear and the Future of Capitalism>

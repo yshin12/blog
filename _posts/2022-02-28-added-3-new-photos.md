@@ -1,7 +1,7 @@
 ---
-title: "신영기 added 3 new photos."
-categories:
-  - facebook
+title: "우크라이나"
+date: "2022-02-28"
+category: facebook
 ---
 
 2014년 우크라이나의 <마이단 혁명>을 그린 다큐멘터리 <Winter on Fire>를 봤다. 100명이 넘는 사람이 목숨을 잃었고, "우리는 우크라이나에 가장 필요한 사람들을 여기서 잃었다."는 인터뷰가 뇌리에 남았다.

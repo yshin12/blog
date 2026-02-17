@@ -1,7 +1,7 @@
 ---
-title: "늦게 도착한 Father's Day 선물."
-categories:
-  - facebook
+title: "모드"
+date: "2021-07-03"
+category: facebook
 ---
 
 늦게 도착한 Father's Day 선물. 

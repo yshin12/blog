@@ -1,7 +1,7 @@
 ---
-title: "신영기 added 6 new photos."
-categories:
-  - facebook
+title: "야구"
+date: "2019-04-06"
+category: facebook
 ---
 
 페북을 돌아다니다 보니 <Only in Canada>라는 시리즈가 있던데, 싸락눈 펑펑 내리는 날 메쟈리그 야구보러 가는 것도 캐나다에서만 가능할 듯. 

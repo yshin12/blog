@@ -1,7 +1,7 @@
 ---
-title: "신영기 updated his status."
-categories:
-  - facebook
+title: "경제학"
+date: "2022-02-12"
+category: facebook
 ---
 
 지구의 자전 속도가 지난 50년간 빨라졌다고 한다. 물론 아주 작은 증가이지만, 지구의 자전 속도는 대체로 조금씩 느려졌던 까닭에 '어, 이게 뭐지?' 하는 반응이라고. 

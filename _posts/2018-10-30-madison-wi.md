@@ -1,7 +1,7 @@
 ---
-title: "새 냉장고 자석 - Madison, WI"
-categories:
-  - facebook
+title: "Madison"
+date: "2018-10-30"
+category: facebook
 ---
 
 새 냉장고 자석 - Madison, WI

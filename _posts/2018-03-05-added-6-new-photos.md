@@ -1,7 +1,7 @@
 ---
-title: "신영기 added 6 new photos."
-categories:
-  - facebook
+title: "피자"
+date: "2018-03-05"
+category: facebook
 ---
 
 햇님이와 진원이 집근처 스키장에 간 사이, 남은 아들 두 녀석과 피자를 만들어 먹었다. 치즈 피자만 먹는 도담이 때문에 두 판을 구웠는데, 복콘치니 치즈를 듬뿍 올린 치즈 피자가 먹저 바닥났다. 

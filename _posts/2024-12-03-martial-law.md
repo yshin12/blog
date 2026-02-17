@@ -1,7 +1,7 @@
 ---
-title: "이메일 체크하다가 뉴욕 타임즈발 긴급 속보를 보고, 내가 Martial Law의 뜻을 잘못 알고 있나 생각했다."
-categories:
-  - facebook
+title: "체크하다"
+date: "2024-12-03"
+category: facebook
 ---
 
 이메일 체크하다가 뉴욕 타임즈발 긴급 속보를 보고, 내가 Martial Law의 뜻을 잘못 알고 있나 생각했다.

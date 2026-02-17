@@ -1,7 +1,7 @@
 ---
-title: "신영기 added 5 new photos."
-categories:
-  - facebook
+title: "정원"
+date: "2020-07-02"
+category: facebook
 ---
 
 락다운 기간동안 아이들의 일과표는 진원과 내가 오전과 오후를 나누어 맡고, 집안일, 공부, 스크린 타임을 병행하고 있다. 아이가 셋이라 손도 많이 가지만, 계속 반복해서 시킨 탓인지 집안일도 꽤나 도움이 된다. 

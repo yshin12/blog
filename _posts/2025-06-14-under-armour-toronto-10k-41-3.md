@@ -1,7 +1,7 @@
 ---
-title: "겨우내 연습했는데 하프 마라톤 한 번만 뛰고 끝내기 아쉬워서 신청한 Under Armour Toronto 10K 대회. 기록은 41분 3초."
-categories:
-  - facebook
+title: "기록"
+date: "2025-06-14"
+category: facebook
 ---
 
 겨우내 연습했는데 하프 마라톤 한 번만 뛰고 끝내기 아쉬워서 신청한 Under Armour Toronto 10K 대회. 기록은 41분 3초.

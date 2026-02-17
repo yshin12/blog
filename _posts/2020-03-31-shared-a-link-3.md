@@ -1,10 +1,7 @@
 ---
-layout: post
-title: "신영기 shared a link."
-date: 2020-03-31 16:07:02 +0000
-facebook_timestamp: 1585670822
-facebook_title: "신영기 shared a link."
-slug: "shared-a-link"
+title: "기생충"
+date: "2020-03-31 16:07:02 +0000"
+category: facebook
 ---
 
 영화 기생충을 보고 가장 충격적이었던 부분은 공동 작가가 한진원이라는 사실이었다. 그리 흔한 이름은 아닌지라, 진원이 나도 모르는 사이에 봉준호 감독과 영화 작업을 했나 싶어서 정말 당신이 쓴 거 아니냐고 물어봤다. 

@@ -1,7 +1,7 @@
 ---
-title: "<Getsemari 소스>"
-categories:
-  - facebook
+title: "식품점"
+date: "2023-02-26"
+category: facebook
 ---
 
 <Getsemari 소스>

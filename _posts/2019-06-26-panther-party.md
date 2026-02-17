@@ -1,7 +1,7 @@
 ---
-title: "Panther Party."
-categories:
-  - facebook
+title: "놀아주었음"
+date: "2019-06-26"
+category: facebook
 ---
 
 Panther Party.

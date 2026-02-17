@@ -1,7 +1,7 @@
 ---
-title: "신영기 added 3 new photos."
-categories:
-  - facebook
+title: "선물"
+date: "2021-03-28"
+category: facebook
 ---
 
 지난 3월 22일은 도담이의 일곱 번 째 생일. 받고 싶은 선물은 레고 트레일러, 케이크은 초코크림에 딸기, 형들도 각자 따로 선물을 준비하라며 세세한 지령을 한 달 전부터 내렸다. 정말 원하는 것이 분명한 녀석이다.

@@ -1,7 +1,7 @@
 ---
-title: "신영기 updated his status."
-categories:
-  - facebook
+title: "테러"
+date: "2021-09-03"
+category: facebook
 ---
 
 뉴질랜드 오클랜드에서 IS의 영향을 받은 극단주의자가 쇼핑센터에서 테러를 일으켰다. 6명에게 칼을 휘둘렀고 3명은 중상을 입었다. 댓글에 뉴스 링크.

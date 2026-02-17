@@ -1,7 +1,7 @@
 ---
-title: "<Penn State/Princeton 여행 일지: 1일째>"
-categories:
-  - facebook
+title: "샌드위치"
+date: "2022-10-25"
+category: facebook
 ---
 
 <Penn State/Princeton 여행 일지: 1일째>

@@ -1,7 +1,7 @@
 ---
-title: "신영기 added 4 new photos."
-categories:
-  - facebook
+title: "캠핑"
+date: "2021-07-10"
+category: facebook
 ---
 
 지난 주말 캐나다에 와서 4년만에 첫 캠핑을 했다. 비록 뒷마당이었지만, 장작불에 스모어도 만들어 먹고, 온가족이 옹기종기 누워서 이야기도 하고, 모기도 물리고. 대략 캠핑에서 할 건 다 했다. 

@@ -1,7 +1,7 @@
 ---
-title: "신영기 updated his status."
-categories:
-  - facebook
+title: "장인정신"
+date: "2020-08-17"
+category: facebook
 ---
 
 2016년 12월부터, 서울, 시드니, 뉴욕, 런던 등, 네 개 대륙을 오가며 공저자들과 작업한 논문이 Annals of Statistics에 게재 승인을 받았다. 저널에서 다루는 논문들이 너무 테크니컬하다고 싫어하는 사람도 있더라만, 또 장인정신으로 빚어내는 수학의 아름다움이란 게 있으니...

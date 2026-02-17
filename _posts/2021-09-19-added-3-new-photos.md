@@ -1,7 +1,7 @@
 ---
-title: "신영기 added 3 new photos."
-categories:
-  - facebook
+title: "놀이터"
+date: "2021-09-19"
+category: facebook
 ---
 
 늘 잊어버리는데, 집 근처에 바다같은 호수가 있다. 아이들은 놀이터에서 자기들끼리 잘 놀게 내버려두고, 공원 의자에 앉아 가슴이 확 트이는 풍광을 보는 재미가 있다.

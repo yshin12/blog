@@ -1,7 +1,7 @@
 ---
-title: "**Richard Powers**"
-categories:
-  - facebook
+title: "world"
+date: "2025-05-31"
+category: facebook
 ---
 
 **Richard Powers**

@@ -1,7 +1,7 @@
 ---
-title: "신영기 added 4 new photos."
-categories:
-  - facebook
+title: "잔"
+date: "2021-03-07"
+category: facebook
 ---
 
 738잔 째 내린 라떼. 2잔 분량의 우유를 한 통에 데워서 커피랑 섞으면 밀도가 균일하지 않아 첫 잔은 하트가 나오고 두번째 잔은 대략 망...

@@ -1,7 +1,7 @@
 ---
-title: "Pizza Tuesday! 🍕"
-categories:
-  - facebook
+title: "Pizza"
+date: "2022-09-14"
+category: facebook
 ---
 
 Pizza Tuesday! 🍕

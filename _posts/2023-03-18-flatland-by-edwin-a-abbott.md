@@ -1,7 +1,7 @@
 ---
-title: "<Flatland by Edwin A. Abbott>"
-categories:
-  - facebook
+title: "3차원"
+date: "2023-03-18"
+category: facebook
 ---
 
 <Flatland by Edwin A. Abbott>

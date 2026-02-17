@@ -1,7 +1,7 @@
 ---
-title: "Getsemari 소스"
-categories:
-  - facebook
+title: "식품점"
+date: "2023-02-25"
+category: facebook
 ---
 
 동글이가 갓 태어났거나 아니면 태어나기 전이니 정말 오래 전 이야기. 진원이 이것저것 요리를 시작했고, 액젓을 쓰면 맛있다는 정보를 입수했다. 한국 식품점에 모든 재료가 구비되어있지 않았으나 궁하면 통하는 법이라고. **Getsemari**라고 불리는 fish sauce를 사면 된다는 것이다. 근처 식품점에 간 진원.

@@ -1,7 +1,7 @@
 ---
-title: "신영기 added 3 new photos."
-categories:
-  - facebook
+title: "돈"
+date: "2022-02-14"
+category: facebook
 ---
 
 대학원 친구중에 Joey라고 한국말을 유창하게 하는 미국인이 있었다. 유타 출신의 몰몬교도였는데, 2년간 한국에 선교활동을 다녀왔다. 한국 문화도 잘 알고 워낙 착하고 친절한 친구라 도움을 많이 받았다. 

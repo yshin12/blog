@@ -1,7 +1,7 @@
 ---
-title: "<트리스탄 다 쿠냐, Tristan da Cunha>"
-categories:
-  - facebook
+title: "섬"
+date: "2023-01-14"
+category: facebook
 ---
 
 <트리스탄 다 쿠냐, Tristan da Cunha> 

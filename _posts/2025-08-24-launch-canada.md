@@ -1,7 +1,7 @@
 ---
-title: "Launch Canada"
-categories:
-  - facebook
+title: "로켓"
+date: "2025-08-24"
+category: facebook
 ---
 
 Launch Canada

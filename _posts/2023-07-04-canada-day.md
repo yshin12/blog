@@ -1,7 +1,7 @@
 ---
-title: "<Canada Day>"
-categories:
-  - facebook
+title: "행사"
+date: "2023-07-04"
+category: facebook
 ---
 
 <Canada Day>

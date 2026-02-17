@@ -1,7 +1,7 @@
 ---
-title: "신영기 added a new photo."
-categories:
-  - facebook
+title: "캐나다기러기"
+date: "2025-03-05"
+category: facebook
 ---
 
 . 우리 동네 호숫가에서 나이가 일흔이 넘은 어느 사진 작가가 찍은 사진. 캐나다기러기와 흰머리독수리가 대치하고  있는 장면인데, 관세 부과 첫날을 맞이한 캐나다와 미국 상황을 상징적으로 보여준다고.

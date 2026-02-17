@@ -1,7 +1,7 @@
 ---
-title: "<Chemistry: a novel by Weike Wang>"
-categories:
-  - facebook
+title: "삶"
+date: "2023-04-09"
+category: facebook
 ---
 
 <Chemistry: a novel by Weike Wang>

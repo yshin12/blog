@@ -1,7 +1,7 @@
 ---
-title: "신영기 added 2 photos and 2 videos."
-categories:
-  - facebook
+title: "커터"
+date: "2023-11-13"
+category: facebook
 ---
 
 이번 할로윈에 햇님이는 로봇손(?)을 만들어서 입었다. Adobe Illustrator를 가지고 송판 디자인부터 시작해서, 레이저 커터로 부품을 잘라내고 조립까지 혼자서 뚝딱 즐겁게 해냈다.

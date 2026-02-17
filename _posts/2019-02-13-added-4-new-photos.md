@@ -1,7 +1,7 @@
 ---
-title: "신영기 added 4 new photos."
-categories:
-  - facebook
+title: "얼음비"
+date: "2019-02-13"
+category: facebook
 ---
 
 2월에만 두번 째 맞는 Snow Day. 눈이 너무 많이 와서 등하교가 위험하다 싶으면 지역 교육청에서 그냥 학교를 닫아버린다. 아이들과 하루 종일 집에 있으면서 옛날 이야기를 두런두런 나눴다. 

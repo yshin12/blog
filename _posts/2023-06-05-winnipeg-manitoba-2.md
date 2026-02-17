@@ -1,10 +1,7 @@
 ---
-layout: post
-title: "<Winnipeg, Manitoba>"
-date: 2023-06-05 04:54:21 +0000
-facebook_timestamp: 1685940861
-facebook_title: "신영기 added 6 new photos."
-slug: "winnipeg-manitoba"
+title: "위니펙"
+date: "2023-06-05 04:54:21 +0000"
+category: facebook
 ---
 
 <Winnipeg, Manitoba>

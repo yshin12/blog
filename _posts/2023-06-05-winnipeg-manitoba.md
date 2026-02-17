@@ -1,7 +1,7 @@
 ---
-title: "<Winnipeg, Manitoba>"
-categories:
-  - facebook
+title: "위니펙"
+date: "2023-06-05"
+category: facebook
 ---
 
 <Winnipeg, Manitoba>

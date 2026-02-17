@@ -1,7 +1,7 @@
 ---
-title: "신영기 added 3 new photos."
-categories:
-  - facebook
+title: "고마움"
+date: "2024-05-31"
+category: facebook
 ---
 
 지난 Mother's Day에 딱히 선물 아이디어가 없었는데, 첫번째 사진을 보고 아침을 만들어주기로 함.  계란 흰자가 상당히 고난이도임을 인지했으나, 결과는 아쉽게도 두번째 사진...ㅠㅠ

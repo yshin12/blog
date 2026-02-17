@@ -1,7 +1,6 @@
 ---
-title: "Chemistry: a novel by Weike Wang"
-categories:
-  - facebook
+title: "삶"
+category: facebook
 ---
 
 일전에 적었듯이 **Omakase**라는 단편 소설을 우연히 읽고 관심이 생긴 작가다. 작가의 이력도 특이하거니와 아시아계 이민자 2세의 삶이 내 아이들의 삶과 겹치는 부분이 있지 않을까 싶었다.

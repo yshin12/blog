@@ -1,7 +1,7 @@
 ---
-title: "<Penn State/Princeton 여행일지: 2일째>"
-categories:
-  - facebook
+title: "아이디어"
+date: "2022-10-26"
+category: facebook
 ---
 
 <Penn State/Princeton 여행일지: 2일째>

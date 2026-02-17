@@ -1,7 +1,7 @@
 ---
-title: "신영기 added 3 new photos."
-categories:
-  - facebook
+title: "크리스마스"
+date: "2024-12-25"
+category: facebook
 ---
 
 삐뚤삐뚤 제멋대로인 크리스마스 트리와 장식들. 아이들이 어릴 때부터 종이를 오리고, 천을 붙여 만든 것이라 사실 그리 화려하진 않지만, 오랜 시간 쌓인 추억 덕분에 매년 볼 때마다 즐겁다.

@@ -1,7 +1,7 @@
 ---
-title: "Title: A Fighting Chance"
-categories:
-  - facebook
+title: "그녀"
+date: "2017-03-18"
+category: facebook
 ---
 
 Title: A Fighting Chance

@@ -1,7 +1,7 @@
 ---
-title: "신영기 added a new photo."
-categories:
-  - facebook
+title: "혜택"
+date: "2023-12-01"
+category: facebook
 ---
 
 요즘 <privileged>라는 말을 많이 생각한다. Boston에서 만난 Arthur Lewbel과도 이 얘기를 했는데, 개인적인 경험에서 겹치는 부분이 있어서 쉽게 공감대가 형성되었다. 

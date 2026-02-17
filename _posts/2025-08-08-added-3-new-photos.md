@@ -1,7 +1,7 @@
 ---
-title: "신영기 added 3 new photos."
-categories:
-  - facebook
+title: "Victoria Mboko"
+date: "2025-08-08"
+category: facebook
 ---
 
 3년 쯤 전에, 집근처 공원 테니스장에 아이들과 간 적이 있는데, 옆 코트에서 공을 치는 모습이 예사롭지 않았다. 그리고, 아래 사진에 모자 쓴 아저씨가 앞뒤로 왔다갔다 하면서 우리가 혹시라도 자기네 공 가져가는지 노심초사하고 있었다. 

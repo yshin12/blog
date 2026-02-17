@@ -1,7 +1,7 @@
 ---
-title: "<Hello New York>"
-categories:
-  - facebook
+title: "박물관"
+date: "2023-02-18"
+category: facebook
 ---
 
 <Hello New York>

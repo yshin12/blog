@@ -1,10 +1,7 @@
 ---
-layout: post
-title: "신영기 shared a link."
-date: 2017-09-28 17:39:07 +0000
-facebook_timestamp: 1506620347
-facebook_title: "신영기 shared a link."
-slug: "shared-a-link"
+title: "청혼"
+date: "2017-09-28 17:39:07 +0000"
+category: facebook
 ---
 
 1. 글쎄 이 비디오를 보고 기분이 좋아지지 않을 사람이 있을까? 자주 써먹으면 안되지만 잘 아껴뒀다가 힘들 때 한번씩 보면 힘이 되는 비디오. 이 비디오가 그해 유툽 10에 든 이후로 많이 청혼 플레시 몹 비디오들이 쏟아져나왔다. 

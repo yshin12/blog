@@ -1,7 +1,7 @@
 ---
-title: "신영기 updated his status."
-categories:
-  - facebook
+title: "피카타"
+date: "2017-05-01"
+category: facebook
 ---
 
 피카타(Picatta)라는 생소한 음식 이름을 각기 다른 식당에서 이틀 사이에 두 번 접하고 궁금함을 이기지 못해 먹어봤다. 메뉴의 설명은 다음과 같다.

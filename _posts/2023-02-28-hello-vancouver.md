@@ -1,7 +1,7 @@
 ---
-title: "<Hello Vancouver>"
-categories:
-  - facebook
+title: "날씨"
+date: "2023-02-28"
+category: facebook
 ---
 
 <Hello Vancouver>

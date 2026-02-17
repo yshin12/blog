@@ -1,7 +1,7 @@
 ---
-title: "신영기 updated his status."
-categories:
-  - facebook
+title: "월급"
+date: "2022-09-23"
+category: facebook
 ---
 
 지호가 첫 월급을 받았다. 이곳은 만 16세가 되면 준성인취급을 해서 많은 것이 달라진다. 여권을 연장할 때도 직접 서명을 하고 운전도 할 수 있다. 

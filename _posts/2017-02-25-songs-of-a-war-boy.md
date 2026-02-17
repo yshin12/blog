@@ -1,7 +1,7 @@
 ---
-title: "Songs of a War Boy"
-categories:
-  - facebook
+title: "소수"
+date: "2017-02-25"
+category: facebook
 ---
 
 Songs of a War Boy

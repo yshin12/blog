@@ -1,7 +1,7 @@
 ---
-title: "** 잡담 @ Bryant Park **"
-categories:
-  - facebook
+title: "빛"
+date: "2024-07-15"
+category: facebook
 ---
 
 ** 잡담 @ Bryant Park **

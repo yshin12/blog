@@ -1,7 +1,7 @@
 ---
-title: "신영기 added a new photo."
-categories:
-  - facebook
+title: "쫑알쫑알"
+date: "2023-01-28"
+category: facebook
 ---
 
 이번 학기는 진원 강의가 늦게 잡혀서, 아이들과 저녁을 먼저 먹는다. 늘 쫑알쫑알 엄마에게 말을 하던 아이들이, 이제 쫑알쫑알 나한테 말이 많다. 

@@ -1,7 +1,7 @@
 ---
-title: "신영기 added a new photo."
-categories:
-  - facebook
+title: "목소리"
+date: "2025-07-02"
+category: facebook
 ---
 
 7월 1일은 캐나다 데이. 우리 가족 전통에 따라 Burlington 5k Run에 모두 참가했다. 참가자 모두, 세상 이보다 더 촌스러울 수 없는 디자인의 셔츠를 맞춰 입고 뛴다. 

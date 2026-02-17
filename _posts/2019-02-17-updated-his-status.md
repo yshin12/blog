@@ -1,7 +1,7 @@
 ---
-title: "신영기 updated his status."
-categories:
-  - facebook
+title: "정체성"
+date: "2019-02-17"
+category: facebook
 ---
 
 "어떤 사람이 말하길 자기는 음악가라고 하더군요. 왜냐하면 아침에 일어나서 제일 먼저 음악을 생각하기 때문에. 그런 의미에서 난 아티스트입니다. 아침에 일어나면 아트를 생각하거든요." 

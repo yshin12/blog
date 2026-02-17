@@ -1,7 +1,7 @@
 ---
-title: "신영기 added a new photo."
-categories:
-  - facebook
+title: "수박"
+date: "2021-07-11"
+category: facebook
 ---
 
 설겆이를 하고 있는데 뒤에서 '쿵' 소리가 났다. 놀라서 쳐다봤더니, 도담이가 수박을 의자 위로 떨어뜨렸다. 나랑 눈이 마주친 도담이가 하는 말이

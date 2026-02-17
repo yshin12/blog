@@ -1,7 +1,7 @@
 ---
-title: "신영기 added a new photo."
-categories:
-  - facebook
+title: "파일"
+date: "2023-09-16"
+category: facebook
 ---
 
 컴퓨터로 지루한 반복 작업을 하는 것을 정말 싫어하는데, 예를 들면 PDF 파일 수십 장에 결재를 하는 일 같은 것들. PDF 파일을 하나 하나 열어서 이름과 날짜를 타이핑하고, 서명 파일을 붙여넣다 보면, 프린트된 종이에 서명하는 시간보다 훨씬 오래 걸린다. 

@@ -1,7 +1,7 @@
 ---
-title: "Welcome Week"
-categories:
-  - facebook
+title: "환영"
+date: "2023-08-31"
+category: facebook
 ---
 
 동글이가 지난 일요일에 대학 기숙사에 들어갔다. 개강은 다음주. 진원은 썰렁한 학교에서 동글이가 혼자 적적해하지 않을까 걱정했다. 그런데, 집으로 배달된 **Welcome Week** 스케줄을 보니 적적하기는 커녕 쉴 틈도 없어보였다. 

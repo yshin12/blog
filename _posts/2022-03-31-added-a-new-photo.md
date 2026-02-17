@@ -1,7 +1,7 @@
 ---
-title: "신영기 added a new photo."
-categories:
-  - facebook
+title: "25분"
+date: "2022-03-31"
+category: facebook
 ---
 
 겨우내 꾸준하게 달렸더니 누적 거리가 1,000km를 넘었다고 연락이 왔다. 다치지 않고 잘 뛰어 다행이다. 컨디션 좋으면 5k는 25분에 10k는 55분에 달릴 수 있다. 체중 관리(?)를 위해 정말 열심히 먹는다. 원래 잘 먹기도 했지만. 

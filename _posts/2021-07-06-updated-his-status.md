@@ -1,7 +1,7 @@
 ---
-title: "신영기 updated his status."
-categories:
-  - facebook
+title: "읽어요"
+date: "2021-07-06"
+category: facebook
 ---
 
 아이들이 우르르 몰려와서는, "아빠, 와이-이-에스는 어떻게 읽어요?" 묻는다. "예스?"하고 대답했더니, "그럼 아빠,  이-와이-이-에스는 어떻게 읽어요?" 해서 "음...이예스?" 

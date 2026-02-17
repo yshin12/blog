@@ -1,7 +1,7 @@
 ---
-title: "** Missa Solemnis **"
-categories:
-  - facebook
+title: "노래"
+date: "2025-08-27"
+category: facebook
 ---
 
 ** Missa Solemnis **

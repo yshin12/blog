@@ -1,7 +1,7 @@
 ---
-title: "신영기 added 3 new photos."
-categories:
-  - facebook
+title: "반환지점"
+date: "2025-06-23"
+category: facebook
 ---
 
 지난 토요일 파크런에는 진원, 동글이와 함께 참가했다. 진원은 사진사 자봉을 했고, 나는 반환지점에서 마샬로 참여했다. 날씨가 좋아서 가족 단위 참여자가 많았다. 

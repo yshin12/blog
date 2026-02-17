@@ -1,7 +1,7 @@
 ---
-title: "Clam Chowder in a Bread Bowl"
-categories:
-  - facebook
+title: "깨빵"
+date: "2021-07-25"
+category: facebook
 ---
 
 Clam Chowder in a Bread Bowl

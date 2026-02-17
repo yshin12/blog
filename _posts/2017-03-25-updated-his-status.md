@@ -1,7 +1,7 @@
 ---
-title: "신영기 updated his status."
-categories:
-  - facebook
+title: "철자법"
+date: "2017-03-25"
+category: facebook
 ---
 
 수업 시간에 알루미늄 공장의 예를 들 일이 있었는데, 슬라이드에 Aluminum으로 썼더니 철자법이 틀렸다고 나왔다. 미국과 캐나다에서는 Aluminum으로 쓰고, 영국과 호주에서는 Aluminium으로 쓴단다. 신기한 것이 캐나다는 많은 철자법이 영국식인데, 또 이건 왜 미국이랑 똑같이 쓰는 건지. 

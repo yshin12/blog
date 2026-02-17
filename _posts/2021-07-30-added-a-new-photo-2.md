@@ -1,10 +1,7 @@
 ---
-layout: post
-title: "신영기 added a new photo."
-date: 2021-07-30 01:09:12 +0000
-facebook_timestamp: 1627607352
-facebook_title: "신영기 added a new photo."
-slug: "added-a-new-photo"
+title: "선수"
+date: "2021-07-30 01:09:12 +0000"
+category: facebook
 ---
 
 캐나다도 올림픽 열기가 뜨겁다. 어제 운전하며 라디오를 듣는데, 여자 배영 100미터에서 은메달을 딴 Kylee Masse 선수의 엄마를 연결해서 인터뷰를 했다. 그때 갑자기 오버랩되는 기억이 과거 우리 나라에서 올림픽 메달을 따면, 선수의 부모님 댁을 현장 연결하던 방송 장면들. 온 동네 사람들 다 모여서 함께 환호하고, 부모님들의 어눌한 인터뷰가 이어지던. 

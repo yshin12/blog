@@ -1,7 +1,7 @@
 ---
-title: "신영기 added a new photo."
-categories:
-  - facebook
+title: "스피드"
+date: "2024-10-07"
+category: facebook
 ---
 
 어제 22km LSD를 끝으로 16주 훈련까지 잘 마쳤다. 나머지 2주는 테이퍼링이라고 해서 점차 훈련량을 줄이는 과정이다. 간단한 복기 겸 리뷰.
