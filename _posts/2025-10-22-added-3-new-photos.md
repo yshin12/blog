@@ -1,5 +1,5 @@
 ---
-title: "마라톤"
+title: "2025 시카고 마라톤"
 date: "2025-10-22"
 category: facebook
 ---

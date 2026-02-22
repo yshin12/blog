@@ -1,10 +1,9 @@
 ---
-title: "넘실대"
+title: "Hyams Beach"
 date: "2017-02-22"
 category: facebook
 ---
 
-@ Hyams Beach, Jan 2017
 
 넘실대는 파도와 강한 햇살에 바닷물 색이 너무나 강렬하게 남았던 곳.
 동글이와 햇님이가 해파리에 쏘이는 바람에 

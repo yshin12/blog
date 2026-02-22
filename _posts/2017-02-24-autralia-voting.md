@@ -1,6 +1,6 @@
 ---
-title: "클린턴"
-date: "2017-02-24"
+title: "호주 투표 제도"
+date: "2017-02-24 02:11:15 +0000"
 category: facebook
 ---
 
