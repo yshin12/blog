@@ -1,5 +1,5 @@
 ---
-title: "확률"
+title: "Minimax principle을 잘못 적용한 백신 의사결정"
 date: "2021-09-03"
 category: facebook
 ---

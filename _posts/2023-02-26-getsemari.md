@@ -1,5 +1,5 @@
 ---
-title: "식품점"
+title: "Getsemari 소스 — 게가 세 마리 그려진 액젓"
 date: "2023-02-26"
 category: facebook
 ---

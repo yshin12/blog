@@ -1,5 +1,5 @@
 ---
-title: "스웨덴"
+title: "스웨덴 속담 — bad weather가 아니라 bad clothes"
 date: "2024-01-20"
 category: facebook
 ---

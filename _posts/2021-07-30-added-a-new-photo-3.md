@@ -1,5 +1,5 @@
 ---
-title: "올림픽"
+title: "Mandy Bujold — 출산 후 올림픽 출전권 법적 분쟁"
 date: "2021-07-30"
 category: facebook
 ---

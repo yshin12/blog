@@ -1,5 +1,5 @@
 ---
-title: "폭설"
+title: "Hello Vancouver 2 — SFU와 UBC 세미나, 그리고 토론토 폭설"
 date: "2023-03-04"
 category: facebook
 ---

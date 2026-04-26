@@ -1,5 +1,5 @@
 ---
-title: "아틀란타"
+title: "신혼여행 끝, 아틀란타에 발묶인 날"
 date: "2017-04-13"
 category: facebook
 ---

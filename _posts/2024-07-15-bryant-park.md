@@ -1,5 +1,5 @@
 ---
-title: "빛"
+title: "Bryant Park 의자에서의 한담"
 date: "2024-07-15"
 category: facebook
 ---

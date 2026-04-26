@@ -1,5 +1,5 @@
 ---
-title: "환영"
+title: "Welcome Week — 동글이 대학 기숙사 입주"
 date: "2023-09-01"
 category: facebook
 ---

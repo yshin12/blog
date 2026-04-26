@@ -1,5 +1,5 @@
 ---
-title: "강사"
+title: "Yitang Zhang — 실사판 굿윌헌팅과 Siegel zero"
 date: "2023-03-19"
 category: facebook
 ---

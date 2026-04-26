@@ -1,5 +1,5 @@
 ---
-title: "피칸"
+title: "Eric's Bun 피칸 버전 — 빛의 속도로 사라짐"
 date: "2022-12-12"
 category: facebook
 ---

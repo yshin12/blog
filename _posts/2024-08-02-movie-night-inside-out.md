@@ -1,5 +1,5 @@
 ---
-title: "모습"
+title: "Movie Night: Inside Out — 8년 전의 시드니 일기"
 date: "2024-08-02"
 category: facebook
 ---

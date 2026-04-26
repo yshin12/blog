@@ -1,5 +1,5 @@
 ---
-title: "Hyams Beach"
+title: "하이암스 비치, 그리고 해파리"
 date: "2017-02-22"
 category: facebook
 ---

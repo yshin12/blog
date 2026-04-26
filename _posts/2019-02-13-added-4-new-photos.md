@@ -1,5 +1,5 @@
 ---
-title: "얼음비"
+title: "두 번째 Snow Day, 얼음비 코팅"
 date: "2019-02-13"
 category: facebook
 ---

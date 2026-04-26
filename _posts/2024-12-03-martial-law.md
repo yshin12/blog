@@ -1,5 +1,5 @@
 ---
-title: "체크하다"
+title: "Martial Law — 12월 3일 긴급 속보"
 date: "2024-12-03"
 category: facebook
 ---

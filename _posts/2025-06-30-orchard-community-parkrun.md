@@ -1,5 +1,5 @@
 ---
-title: "바코드"
+title: "동네 매일 뛰는 모습이 motivate했다는 파크런 참가자"
 date: "2025-06-30"
 category: facebook
 ---

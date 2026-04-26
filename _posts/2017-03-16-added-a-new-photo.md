@@ -1,5 +1,5 @@
 ---
-title: "논문"
+title: "JASA 논문 게재 승인"
 date: "2017-03-16"
 category: facebook
 ---

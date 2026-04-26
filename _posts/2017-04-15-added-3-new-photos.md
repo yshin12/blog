@@ -1,5 +1,5 @@
 ---
-title: "비행기"
+title: "마이애미 가는 길, 항공사와의 분투기"
 date: "2017-04-15"
 category: facebook
 ---

@@ -1,5 +1,5 @@
 ---
-title: "육아"
+title: "Women in Econometrics — 육아와 학계의 패널 토의"
 date: "2022-10-20"
 category: facebook
 ---

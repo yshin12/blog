@@ -1,5 +1,5 @@
 ---
-title: "뉴욕타임즈"
+title: "뉴욕타임즈가 옮긴 한 번역가의 부고"
 date: "2023-09-12"
 category: facebook
 ---

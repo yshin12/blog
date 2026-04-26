@@ -1,5 +1,5 @@
 ---
-title: "전쟁"
+title: "Destined For War — 투키디데스 함정 독서노트"
 date: "2021-08-07"
 category: facebook
 ---

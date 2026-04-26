@@ -1,5 +1,5 @@
 ---
-title: "증세"
+title: "햇님이 인후염, Strep과 코로나 음성 — 그리고 초코쿠키"
 date: "2021-09-15"
 category: facebook
 ---

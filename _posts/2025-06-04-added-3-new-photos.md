@@ -1,5 +1,5 @@
 ---
-title: "패턴"
+title: "Trillium 타일 패턴 — 햇님이가 시뮬레이션으로 찾은 4번째"
 date: "2025-06-04"
 category: facebook
 ---

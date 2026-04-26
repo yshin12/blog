@@ -1,5 +1,5 @@
 ---
-title: "발음"
+title: "교포 발음을 일본어로 오해한 막내"
 date: "2020-07-23"
 category: facebook
 ---

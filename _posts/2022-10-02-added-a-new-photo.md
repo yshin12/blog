@@ -1,5 +1,5 @@
 ---
-title: "논문"
+title: "5만 8천년만의 대면 세미나 발표 — 토론토 대학"
 date: "2022-10-02"
 category: facebook
 ---

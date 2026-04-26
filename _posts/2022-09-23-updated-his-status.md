@@ -1,5 +1,5 @@
 ---
-title: "월급"
+title: "동글이의 첫 월급 — 만 16세 수상안전요원"
 date: "2022-09-23"
 category: facebook
 ---

@@ -1,5 +1,5 @@
 ---
-title: "그녀"
+title: "A Fighting Chance — 엘리자베스 워런의 길"
 date: "2017-03-18"
 category: facebook
 ---

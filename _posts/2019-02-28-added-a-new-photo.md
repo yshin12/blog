@@ -1,5 +1,5 @@
 ---
-title: "지은이"
+title: "Everybody Lies — big data 책 단상"
 date: "2019-02-28"
 category: facebook
 ---

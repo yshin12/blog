@@ -1,5 +1,5 @@
 ---
-title: "Yukon"
+title: "Yukon에서 돌아온 진원과 미드나잇 선의 자석"
 date: "2025-06-11"
 category: facebook
 ---

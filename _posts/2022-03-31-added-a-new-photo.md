@@ -1,5 +1,5 @@
 ---
-title: "25분"
+title: "겨울 누적 1,000km — 5k 25분, 10k 55분"
 date: "2022-03-31"
 category: facebook
 ---

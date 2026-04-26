@@ -1,5 +1,5 @@
 ---
-title: "혜택"
+title: "Privileged — 위에서만 안 보이는 혜택"
 date: "2023-12-01"
 category: facebook
 ---

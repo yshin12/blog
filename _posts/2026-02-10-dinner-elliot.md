@@ -1,5 +1,5 @@
 ---
-title: "동글이와 저녁"
+title: "동글이와 학생 식당 저녁 — 로켓 클럽 캐스팅 이야기"
 date: "2026-02-10"
 category: facebook
 ---

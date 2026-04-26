@@ -1,5 +1,5 @@
 ---
-title: "물"
+title: "Toilet Tank 자가 수리 — O-ring 부서짐"
 date: "2024-07-18"
 category: facebook
 ---

@@ -1,5 +1,5 @@
 ---
-title: "기록"
+title: "Under Armour Toronto 10K — 41:03, 5K PB 19:50"
 date: "2025-06-14"
 category: facebook
 ---

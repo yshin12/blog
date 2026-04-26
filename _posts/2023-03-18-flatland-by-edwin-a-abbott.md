@@ -1,5 +1,5 @@
 ---
-title: "3차원"
+title: "Flatland — 100년 전의 고차원 투영 아이디어"
 date: "2023-03-18"
 category: facebook
 ---

@@ -1,5 +1,5 @@
 ---
-title: "짧"
+title: "이직 제안과 도담이의 학기 길이 기준"
 date: "2023-02-03"
 category: facebook
 ---

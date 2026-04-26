@@ -1,5 +1,5 @@
 ---
-title: "Media"
+title: "오래 전 사진 모음"
 date: "2025-02-20 17:19:54 +0000"
 category: facebook
 ---

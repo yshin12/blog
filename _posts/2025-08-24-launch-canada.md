@@ -1,5 +1,5 @@
 ---
-title: "로켓"
+title: "Launch Canada — Timmins 로켓 발사 대회의 동글이"
 date: "2025-08-24"
 category: facebook
 ---

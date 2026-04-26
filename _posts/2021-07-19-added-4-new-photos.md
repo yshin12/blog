@@ -1,5 +1,5 @@
 ---
-title: "파도"
+title: "7년 만의 Pinery 주립공원 비치"
 date: "2021-07-19"
 category: facebook
 ---

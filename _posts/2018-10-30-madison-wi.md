@@ -1,5 +1,5 @@
 ---
-title: "Madison"
+title: "냉장고 자석 — Madison, WI"
 date: "2018-10-30"
 category: facebook
 ---

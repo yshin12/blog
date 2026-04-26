@@ -1,5 +1,5 @@
 ---
-title: "사주시"
+title: "Penn State/Princeton 4일째 — 케이 히라노 교수님과 점심"
 date: "2022-10-28"
 category: facebook
 ---

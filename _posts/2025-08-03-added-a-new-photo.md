@@ -1,5 +1,5 @@
 ---
-title: "쯤"
+title: "지인의 웹소설 로판 데뷔작 응원"
 date: "2025-08-03"
 category: facebook
 ---

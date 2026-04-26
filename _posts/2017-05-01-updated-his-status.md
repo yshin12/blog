@@ -1,5 +1,5 @@
 ---
-title: "피카타"
+title: "피카타(Picatta) 처음 먹어본 날"
 date: "2017-05-01"
 category: facebook
 ---

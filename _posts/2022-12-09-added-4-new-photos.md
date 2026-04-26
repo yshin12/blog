@@ -1,5 +1,5 @@
 ---
-title: "익숙한"
+title: "겨울비 몬트리올과 햇살 캘리포니아 — 한 주의 출장"
 date: "2022-12-09"
 category: facebook
 ---

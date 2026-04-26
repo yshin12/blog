@@ -1,5 +1,5 @@
 ---
-title: "섬"
+title: "트리스탄 다 쿠냐 — 가장 외진 유인도"
 date: "2023-01-14"
 category: facebook
 ---

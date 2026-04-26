@@ -1,5 +1,5 @@
 ---
-title: "위니펙"
+title: "Winnipeg, Manitoba — 흙탕물, 위니 더 푸, 그리고 학회"
 date: "2023-06-05 04:54:21 +0000"
 category: facebook
 ---

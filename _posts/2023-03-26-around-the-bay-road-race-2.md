@@ -1,5 +1,5 @@
 ---
-title: "대회"
+title: "Around the Bay Road Race 30km — 첫 10km 43분 28초"
 date: "2023-03-26 22:32:24 +0000"
 category: facebook
 ---

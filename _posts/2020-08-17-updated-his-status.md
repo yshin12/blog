@@ -1,5 +1,5 @@
 ---
-title: "장인정신"
+title: "Annals of Statistics 게재 승인 — 4개 대륙의 작업"
 date: "2020-08-17"
 category: facebook
 ---

@@ -1,5 +1,5 @@
 ---
-title: "명상"
+title: "밀턴 실내 트랙 후 시골길 — 비공식 명상 시간"
 date: "2025-03-18"
 category: facebook
 ---

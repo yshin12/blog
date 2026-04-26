@@ -1,5 +1,5 @@
 ---
-title: "Trust"
+title: "Trust Your Training — 29km LSD와 만트라"
 date: "2024-08-05"
 category: facebook
 ---

@@ -1,5 +1,5 @@
 ---
-title: "인생"
+title: "A series of decisions and a set of memories — Pizza Tuesday의 의미"
 date: "2023-02-08"
 category: facebook
 ---

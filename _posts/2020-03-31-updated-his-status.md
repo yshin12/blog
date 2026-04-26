@@ -1,5 +1,5 @@
 ---
-title: "자석"
+title: "콧구멍 자석 사고로 BBC 메인을 장식한 천체물리학자"
 date: "2020-03-31"
 category: facebook
 ---

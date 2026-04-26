@@ -1,5 +1,5 @@
 ---
-title: "앞산"
+title: "에메랄드 빛 호수와 야생곰 — 앞산 산책"
 date: "2019-05-31"
 category: facebook
 ---

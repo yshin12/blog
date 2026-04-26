@@ -1,5 +1,5 @@
 ---
-title: "졸업식"
+title: "햇님이 졸업식에 1km 전력 질주로 도착"
 date: "2024-06-29"
 category: facebook
 ---

@@ -1,5 +1,5 @@
 ---
-title: "철자법"
+title: "Aluminum vs Aluminium, 두 가지 철자법"
 date: "2017-03-25"
 category: facebook
 ---

@@ -1,5 +1,5 @@
 ---
-title: "테러"
+title: "오클랜드 IS 영향 테러와 뉴질랜드 정치권의 대응"
 date: "2021-09-03"
 category: facebook
 ---

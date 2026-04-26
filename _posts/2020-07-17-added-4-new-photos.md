@@ -1,5 +1,5 @@
 ---
-title: "좌우명"
+title: "꾸역꾸역, 절차탁마 — 그리고 JoE 게재승인"
 date: "2020-07-17"
 category: facebook
 ---

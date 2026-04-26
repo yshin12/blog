@@ -1,5 +1,5 @@
 ---
-title: "아내"
+title: "막내의 Snow Day 소환 의식과 동글이의 하얀 장미"
 date: "2025-02-15"
 category: facebook
 ---

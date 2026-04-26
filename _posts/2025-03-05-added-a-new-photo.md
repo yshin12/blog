@@ -1,5 +1,5 @@
 ---
-title: "캐나다기러기"
+title: "캐나다기러기와 흰머리독수리 — 관세 첫날의 사진"
 date: "2025-03-05"
 category: facebook
 ---

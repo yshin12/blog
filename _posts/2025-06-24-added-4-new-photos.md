@@ -1,5 +1,5 @@
 ---
-title: "테이블"
+title: "뒷마당 테이블 위 야채 화분 — 토끼와 다람쥐 피하기"
 date: "2025-06-24"
 category: facebook
 ---

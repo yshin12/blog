@@ -1,5 +1,5 @@
 ---
-title: "행사"
+title: "Canada Day 5km — 온 가족 첫 달리기 행사"
 date: "2023-07-04"
 category: facebook
 ---

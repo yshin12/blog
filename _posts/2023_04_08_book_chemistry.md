@@ -1,5 +1,5 @@
 ---
-title: "삶"
+title: "Chemistry — Weike Wang의 이민자 2세 대학원생 소설"
 category: facebook
 ---
 

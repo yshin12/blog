@@ -1,5 +1,5 @@
 ---
-title: "혼신"
+title: "혼신의 얼음땡, 그리고 마감 직전 서류"
 date: "2020-07-31"
 category: facebook
 ---

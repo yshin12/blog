@@ -1,5 +1,5 @@
 ---
-title: "아이디어"
+title: "Penn State/Princeton 2일째 — 논문 발표와 빵 터진 농담"
 date: "2022-10-26"
 category: facebook
 ---

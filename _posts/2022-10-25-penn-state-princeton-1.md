@@ -1,5 +1,5 @@
 ---
-title: "샌드위치"
+title: "Penn State/Princeton 1일째 — Newark의 13불 샌드위치"
 date: "2022-10-25"
 category: facebook
 ---

@@ -1,5 +1,5 @@
 ---
-title: "소리"
+title: "유튜브 새소리에 속아 나타난 Northern Cardinal"
 date: "2025-06-26"
 category: facebook
 ---

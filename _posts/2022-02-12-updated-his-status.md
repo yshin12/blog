@@ -1,5 +1,5 @@
 ---
-title: "경제학"
+title: "지구 자전 속도와 경제학을 이해하는 어려움"
 date: "2022-02-12"
 category: facebook
 ---

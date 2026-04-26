@@ -1,5 +1,5 @@
 ---
-title: "죽음"
+title: "Deaths of Despair and the Future of Capitalism — 독서노트"
 date: "2021-03-07"
 category: facebook
 ---

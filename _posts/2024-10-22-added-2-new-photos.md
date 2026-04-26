@@ -1,5 +1,5 @@
 ---
-title: "마라톤"
+title: "2024 토론토 워터프론트 마라톤 — 3시간 20분 45초"
 date: "2024-10-22"
 category: facebook
 ---

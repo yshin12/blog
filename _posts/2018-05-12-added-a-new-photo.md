@@ -1,5 +1,5 @@
 ---
-title: "뛰기"
+title: "동글이의 교내 육상 대회 입상"
 date: "2018-05-12"
 category: facebook
 ---

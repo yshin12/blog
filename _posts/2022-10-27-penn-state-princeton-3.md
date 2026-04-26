@@ -1,5 +1,5 @@
 ---
-title: "기타"
+title: "Penn State/Princeton 3일째 — 동생 클래식 기타와 잡마켓 첫 오퍼"
 date: "2022-10-27"
 category: facebook
 ---

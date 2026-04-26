@@ -1,5 +1,5 @@
 ---
-title: "김밥"
+title: "Yukon에 간 진원, 도담이 김밥과 Takis"
 date: "2025-06-06"
 category: facebook
 ---

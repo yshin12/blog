@@ -1,5 +1,5 @@
 ---
-title: "포티"
+title: "막내의 포티 졸업, 십 년 기저귀의 끝"
 date: "2017-04-02"
 category: facebook
 ---

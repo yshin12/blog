@@ -1,5 +1,5 @@
 ---
-title: "아우라"
+title: "2년만의 대면 강의, 학생들의 밝은 아우라"
 date: "2022-02-09"
 category: facebook
 ---

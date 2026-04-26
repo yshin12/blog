@@ -1,5 +1,5 @@
 ---
-title: "동글"
+title: "14년 전 동글이의 오무라이스 — 옛 기록"
 date: "2024-01-11"
 category: facebook
 ---

@@ -1,5 +1,5 @@
 ---
-title: "깨빵"
+title: "Clam Chowder in a Bread Bowl — 햇님이의 깨빵 차우더"
 date: "2021-07-25"
 category: facebook
 ---

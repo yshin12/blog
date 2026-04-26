@@ -1,5 +1,5 @@
 ---
-title: "Hillbilly Elegy"
+title: "Hillbilly Elegy — 러스트 벨트 백인 노동자의 자화상"
 date: "2017-03-04"
 category: facebook
 ---

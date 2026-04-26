@@ -1,5 +1,5 @@
 ---
-title: "논문"
+title: "Econometric Theory 게재 승인 — 멱집합 평균 Quantile 예측"
 date: "2021-07-13"
 category: facebook
 ---

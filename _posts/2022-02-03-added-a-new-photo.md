@@ -1,5 +1,5 @@
 ---
-title: "장수"
+title: "동글이 햇님이의 첫 투자 수업 — efficient frontier와 우산 장수"
 date: "2022-02-03"
 category: facebook
 ---

@@ -1,5 +1,5 @@
 ---
-title: "식당"
+title: "동글이 첫 알바비로 사 준 가족 외식 — 2년 6개월만"
 date: "2022-10-09"
 category: facebook
 ---

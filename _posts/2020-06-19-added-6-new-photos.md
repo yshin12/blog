@@ -1,5 +1,5 @@
 ---
-title: "지수"
+title: "Sparse HP Filter — 코로나 R0 시계열 추정 논문"
 date: "2020-06-19"
 category: facebook
 ---

@@ -1,5 +1,5 @@
 ---
-title: "논문"
+title: "5년의 논문 초고 완성 — 자축의 artisan rustic bread"
 date: "2022-09-16"
 category: facebook
 ---

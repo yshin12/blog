@@ -1,5 +1,5 @@
 ---
-title: "스피드"
+title: "16주 마라톤 훈련 마무리 — 무릎 통증 후 테이퍼링"
 date: "2024-10-07"
 category: facebook
 ---

@@ -1,5 +1,5 @@
 ---
-title: "world"
+title: "Richard Powers — Bewilderment 이후 빠진 작가"
 date: "2025-05-31"
 category: facebook
 ---

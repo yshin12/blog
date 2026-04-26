@@ -1,5 +1,5 @@
 ---
-title: "정상"
+title: "Sulphur Mountain 정상에서 위장 놀이 — Banff"
 date: "2019-06-09"
 category: facebook
 ---

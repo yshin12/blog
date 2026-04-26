@@ -1,5 +1,5 @@
 ---
-title: "노래"
+title: "Missa Solemnis — 2011년 글과 도담이 (보이) 소프라노"
 date: "2025-08-27"
 category: facebook
 ---

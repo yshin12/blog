@@ -1,5 +1,5 @@
 ---
-title: "노동"
+title: "A World without Work — 자동화와 노동의 미래 독서노트"
 date: "2021-03-14"
 category: facebook
 ---

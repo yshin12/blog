@@ -1,5 +1,5 @@
 ---
-title: "웹사이트"
+title: "연구 웹사이트 개편 — Jekyll + Github으로 이전"
 date: "2022-11-09"
 category: facebook
 ---

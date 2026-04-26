@@ -1,5 +1,5 @@
 ---
-title: "방문"
+title: "진원 한국 방문 후 — 뿌셔뿌셔와 매운 대구 껍질 과자"
 date: "2024-08-22"
 category: facebook
 ---

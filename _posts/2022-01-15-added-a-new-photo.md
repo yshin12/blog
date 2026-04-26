@@ -1,5 +1,5 @@
 ---
-title: "라"
+title: "세 엄마, 문 뒤에서 울고있는 나에게 — 동갑 작가 이야기"
 date: "2022-01-15"
 category: facebook
 ---

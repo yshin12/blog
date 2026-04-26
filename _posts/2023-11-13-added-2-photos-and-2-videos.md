@@ -1,5 +1,5 @@
 ---
-title: "커터"
+title: "할로윈 의상 — 햇님이의 로봇손과 도담이의 아마존 박스"
 date: "2023-11-13"
 category: facebook
 ---

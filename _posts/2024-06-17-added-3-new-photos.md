@@ -1,5 +1,5 @@
 ---
-title: "로켓"
+title: "동글이 첫 단독 비행 — Spaceport America Cup 로켓 대회"
 date: "2024-06-17"
 category: facebook
 ---

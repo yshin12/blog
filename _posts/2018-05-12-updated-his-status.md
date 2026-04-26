@@ -1,5 +1,5 @@
 ---
-title: "학위"
+title: "백발의 학생, 그리고 20년 뒤의 학위 계획"
 date: "2018-05-12"
 category: facebook
 ---

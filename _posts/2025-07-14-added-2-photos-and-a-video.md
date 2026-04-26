@@ -1,5 +1,5 @@
 ---
-title: "뒤"
+title: "집에 들어온 CNC 머신과 메달 뒷면 새기기"
 date: "2025-07-14"
 category: facebook
 ---

@@ -1,5 +1,5 @@
 ---
-title: "톤"
+title: "수업 비디오 톤이 달라지는 진원의 몸개그"
 date: "2020-04-04"
 category: facebook
 ---

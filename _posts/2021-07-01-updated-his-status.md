@@ -1,5 +1,5 @@
 ---
-title: "통일"
+title: "프레임 효과와 통일에 대한 질문, 그리고 슬라이스 서브"
 date: "2021-07-01"
 category: facebook
 ---

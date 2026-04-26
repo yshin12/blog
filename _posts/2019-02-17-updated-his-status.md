@@ -1,5 +1,5 @@
 ---
-title: "정체성"
+title: "정체성 — 아침에 일어나 제일 먼저 생각하는 것"
 date: "2019-02-17"
 category: facebook
 ---

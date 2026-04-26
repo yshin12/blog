@@ -1,5 +1,5 @@
 ---
-title: "피자"
+title: "Sourdough Pizza Tuesday — 검은빵 색의 화요일"
 date: "2022-09-20"
 category: facebook
 ---

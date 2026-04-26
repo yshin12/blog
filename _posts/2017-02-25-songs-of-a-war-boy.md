@@ -1,5 +1,5 @@
 ---
-title: "Songs of a War Boy"
+title: "Songs of a War Boy — 수단 소년병에서 호주 변호사로"
 date: "2017-02-25"
 category: facebook
 ---

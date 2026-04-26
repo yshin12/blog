@@ -1,5 +1,5 @@
 ---
-title: "아이"
+title: "5년 단위의 방향 정하기 — 도시락 6개의 가을"
 date: "2024-09-22"
 category: facebook
 ---

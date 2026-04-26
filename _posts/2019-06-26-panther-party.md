@@ -1,5 +1,5 @@
 ---
-title: "놀아주었음"
+title: "Panther Party — 열심히 놀아준 엄마 아빠"
 date: "2019-06-26"
 category: facebook
 ---

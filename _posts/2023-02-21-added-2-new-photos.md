@@ -1,5 +1,5 @@
 ---
-title: "divisible"
+title: "컬럼비아 SIPA 육교에서, 그리고 일타 스캔들"
 date: "2023-02-21"
 category: facebook
 ---

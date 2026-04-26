@@ -1,5 +1,5 @@
 ---
-title: "박물관"
+title: "Hello New York — 컬럼비아 공저 작업"
 date: "2023-02-18"
 category: facebook
 ---

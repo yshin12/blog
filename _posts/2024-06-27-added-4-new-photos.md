@@ -1,5 +1,5 @@
 ---
-title: "포르투갈"
+title: "포르투갈 브라가 — Bacalhau, Pastel de nata, 듀오링고"
 date: "2024-06-27"
 category: facebook
 ---

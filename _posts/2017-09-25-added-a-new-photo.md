@@ -1,5 +1,5 @@
 ---
-title: "곡"
+title: "쇼팽 전주곡 라단조, 그리고 가족의 음악"
 date: "2017-09-25"
 category: facebook
 ---

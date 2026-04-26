@@ -1,5 +1,5 @@
 ---
-title: "Links"
+title: "오늘의 노동요 링크"
 date: "2021-07-07 15:08:06 +0000"
 category: facebook
 ---

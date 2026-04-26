@@ -1,5 +1,5 @@
 ---
-title: "의욕"
+title: "의욕 없는 게 아니라, 의욕 없다는 생각에 매여있는"
 date: "2024-09-24"
 category: facebook
 ---

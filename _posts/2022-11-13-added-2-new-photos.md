@@ -1,5 +1,5 @@
 ---
-title: "색"
+title: "진원의 와인색 머리 염색"
 date: "2022-11-13"
 category: facebook
 ---

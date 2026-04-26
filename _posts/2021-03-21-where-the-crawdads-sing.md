@@ -1,5 +1,5 @@
 ---
-title: "소설"
+title: "Where the Crawdads Sing — 동물학자 할머니의 베스트셀러"
 date: "2021-03-21"
 category: facebook
 ---

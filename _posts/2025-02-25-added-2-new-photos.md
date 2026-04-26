@@ -1,5 +1,5 @@
 ---
-title: "밤"
+title: "20년 만의 스노우보드와 막내의 톰 소여"
 date: "2025-02-25"
 category: facebook
 ---

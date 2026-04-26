@@ -1,5 +1,5 @@
 ---
-title: "킨들"
+title: "현관 입구에서 킨들을 읽는 동글이"
 date: "2017-09-11"
 category: facebook
 ---

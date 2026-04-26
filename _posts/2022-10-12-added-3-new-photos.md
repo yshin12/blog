@@ -1,5 +1,5 @@
 ---
-title: "윤우"
+title: "도윤이와 윤우의 크로스 컨트리 — Halton 지역 대회"
 date: "2022-10-12"
 category: facebook
 ---

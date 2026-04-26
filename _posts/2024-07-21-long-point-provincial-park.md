@@ -1,5 +1,5 @@
 ---
-title: "입장권"
+title: "Long Point Provincial Park — 도서관에서 빌린 입장권"
 date: "2024-07-21"
 category: facebook
 ---

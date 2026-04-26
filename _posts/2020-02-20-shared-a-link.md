@@ -1,5 +1,5 @@
 ---
-title: "원주민"
+title: "캐나다 원주민 철도봉쇄 사태 단상"
 date: "2020-02-20"
 category: facebook
 ---

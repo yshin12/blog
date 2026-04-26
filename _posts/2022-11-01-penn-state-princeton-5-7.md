@@ -1,5 +1,5 @@
 ---
-title: "논문"
+title: "Penn State/Princeton 5-7일째 — 강가 단풍 러닝과 새 논문 아이디어"
 date: "2022-11-01"
 category: facebook
 ---

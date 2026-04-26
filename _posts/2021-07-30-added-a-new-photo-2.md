@@ -1,5 +1,5 @@
 ---
-title: "선수"
+title: "Maggie Mac Neil 금메달 — 런던 출신 입양 선수"
 date: "2021-07-30 01:09:12 +0000"
 category: facebook
 ---

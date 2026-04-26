@@ -1,5 +1,5 @@
 ---
-title: "정권"
+title: "친위 쿠데타와 시민의 저항 — 아랍의 봄을 떠올리며"
 date: "2024-12-17"
 category: facebook
 ---

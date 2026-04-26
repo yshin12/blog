@@ -1,5 +1,5 @@
 ---
-title: "학기"
+title: "겨울학기와 음료수 거울에 속은 아이들"
 date: "2020-02-13"
 category: facebook
 ---
