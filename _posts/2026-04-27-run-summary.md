@@ -1,57 +1,43 @@
 ---
-title: Rest Day (Post-Long-Run Recovery)
+title: Easy Run
 date: 2026-04-27
 category: running
 ---
 
-## Rest Day — 0 km
+## Burlington Running — 8.36 km Easy Run
 
-**Date:** Monday, April 27, 2026
-**Distance:** 0 km
-**Activity:** Full rest (planned recovery)
+**Date:** Monday, April 27, 2026 (evening)
+**Run Type:** Easy / Aerobic (E)
 
-### Run Type: Rest / Recovery (R)
-
-A planned full rest follows yesterday's 22.58 km long run with progression. No running, biking, or cross-training logged — body in pure recovery mode.
-
-### Why Rest Today
-
-Sunday's session was the riskiest of the week: 22.58 km with a back-third tempo close at 4:26–4:44/km. Repeated eccentric hamstring loading at progressively faster paces is exactly the profile that can light up proximal hamstring tendinopathy. A full Monday off lets the long-run aerobic gains consolidate while the tendon recovers under zero load.
-
-### Last 7 Days Summary (Tue Apr 21 → Mon Apr 27)
-
-| Day | Date | Type | Distance | Avg Pace | Avg HR | Calories |
-|---|---|---|---|---|---|---|
-| Tue | 04-21 | Easy (E) | 10.01 km | 5:25/km | 126 | 712 |
-| Wed | 04-22 | Easy (E) | 11.11 km | 5:51/km | 127 | 816 |
-| Thu | 04-23 | Easy (E) | 10.49 km | 5:33/km | 127 | 775 |
-| Fri | 04-24 | Progression (E→T) + surge | 11.67 km | 5:51/km | 121 | 849 |
-| Sat | 04-25 | Rest | 0 km | — | — | — |
-| Sun | 04-26 | Long Run with Progression (LR-P) | 22.58 km | 5:08/km | 131 | 1,586 |
-| Mon | 04-27 | Rest | 0 km | — | — | — |
-| **Total** | | | **65.86 km** | **~5:25/km** | | **4,738** |
-
-### Summary Statistics (Most Recent Run — Sun 04-26)
+### Summary Statistics
 
 | Metric | Value |
 |---|---|
-| Distance | 22.58 km (14.03 mi) |
-| Moving time | 1:55:52 |
-| Avg pace | 5:07/km |
-| Fastest km | 4:26 (km 20 & 21) |
-| Avg HR | 131 bpm |
-| Cadence | 174 spm |
-| Stride length | 111 cm |
-| Calories | 1,586 kcal |
+| Distance | 8.36 km (5.20 mi) |
+| Moving time | 45:19 |
+| Avg pace | 5:25/km |
+| Best pace | 5:12/km (km 8) |
+| Avg HR | 137 bpm |
+| Max HR | 154 bpm |
+| Avg cadence | 167 spm |
+| Stride length | 109 cm |
+| Calories | 635 kcal |
+| Elevation gain | 21 m |
 
-### Recovery Protocol
+### Splits
 
-- Isometric long-lever hamstring holds: single-leg bridge, 30–45 s × 4 reps
-- Foam roll glutes, quads, calves — skip the proximal hamstring origin
-- No deep forward folds or seated stretches that compress the sit-bone
-- Light 20–30 min walk if the tendon feels good
-- Protein target ≥ 1.6 g/kg today to support tendon collagen synthesis
+| Km | Pace | HR |
+|---|---|---|
+| 1 | 5:46 | 121 |
+| 2 | 5:29 | 138 |
+| 3 | 5:21 | 140 |
+| 4 | 5:20 | 138 |
+| 5 | 5:19 | 138 |
+| 6 | 5:19 | 139 |
+| 7 | 5:25 | 142 |
+| 8 | 5:12 | 139 |
+| 0.36 | 5:51 | 142 |
 
-### Outlook
+### Notes
 
-Tuesday opens with an easy aerobic shake-out, 8–10 km @ 5:40–5:55/km, HR ≤ 130. The goal is to flush long-run fatigue and check in with the proximal hamstring under light load before building back into the week.
+A clean easy run after Sunday's 22.58 km long run and a Monday morning rest. First km was a controlled 5:46 warm-up; settled into a relaxed 5:19–5:25 groove with HR sitting comfortably in the upper aerobic zone (137 avg). Closing km dipped to 5:12 — legs felt fresher than expected post-LR. Cadence held at 167 spm, slightly below my usual 170+ but appropriate for the recovery context. No PHT signal on the proximal hamstring during or after.
