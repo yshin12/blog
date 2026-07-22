@@ -1,24 +1,32 @@
 ---
-title: Rest Day
+title: Easy Run
 date: 2026-07-21
 category: running
 ---
 
-## Rest Day — No Activity Logged
+## Easy Run — 11.24 km
 
-Garmin returned **0 running activities** for today — the second consecutive rest day (following Mon 07/20). No CSV data was recorded, so there are no splits, HR traces, or run-type classification to report.
+A relaxed, well-controlled aerobic run. Effort stayed genuinely easy from start to finish — exactly the kind of session called for during recovery.
+
+### Summary
 
 | Metric | Value |
 |---|---|
-| Activities | 0 |
-| Distance | 0.00 km |
-| Time | — |
-| Calories (exercise) | — |
+| Distance | 11.24 km |
+| Time | 1:02:04 |
+| Avg Pace | 5:31 /km |
+| Best Pace | 4:37 /km |
+| Avg HR | 134 bpm |
+| Max HR | 149 bpm |
+| Cadence | 179 spm (max 190) |
+| Stride Length | 1.01 m |
+| Calories | 850 kcal |
 
-**Day type:** Full rest. Back-to-back rest days are a sensible, disciplined choice while cardiac/liver recovery from the June 6 event remains the priority. No intensity flags — nothing to flag.
+**Run type: Easy.** Low aerobic HR (avg 134, peak only 149), conversational pace, and steady cadence — no tempo/threshold drift and no hard finish.
 
 ### Notes
-- Two rest days in a row is fine and, given the recovery context, welcome; it lets adaptation catch up without any cardiovascular load.
-- Week to date (Mon 07/20–Sun 07/26): **0.00 km** so far; July to date: **113.85 km**.
-- Recent running has all been easy and well-behaved (10 km 07/19, 8 km 07/17, 11.2 km 07/15), so there's a solid aerobic base to return to.
-- Tomorrow: an easy 6–8 km at conversational pace (~5:30–6:00/km), HR under ~130 — no quality work until cardiology clears harder efforts.
+
+- **HR stayed in the easy zone the whole way** — average 134 bpm and a max of just 149 keep this comfortably below any tempo/threshold range. Fully in line with current medical guidance (easy effort only until cardiology clears harder work).
+- **Cadence is strong and consistent** at ~179 spm with a smooth 1.01 m stride.
+- **Distance (11+ km) is fine** — the earlier post-collapse distance cap has been lifted; the priority now is keeping every run easy, which today's data confirms.
+- Keep prioritizing hydration and fueling (avoid hypoglycemia) and steady, conversational effort. No intervals, tempo, or racing until cardiology gives the green light.
