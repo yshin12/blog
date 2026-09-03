@@ -1,13 +1,15 @@
 ---
-title: 토론토 → 캘거리 → 캔모어 → 그래시 호수
+title: Banff 2026 - Day 1
 date: 2026-08-25, Tuesday
 category:
     - 여행
 ---
 
+토론토 --> 캘거리 --> 캔모어 --> 그래시 호수
+
 아침 비행기로 캘거리로 떠났다. 4시간 비행 후 착륙. 렌터카를 찾은 후, 공항
-근처에 있는 Pacini에서 점심을 먹었다. 지난번 어머니와 여행을 갈 때 찾아놨던
-곳인데, 여러 종류의 빵을 직접 구워서 각종 스프레드와 함께 먹을 수 있는 Bread
+근처에 있는 Pacini에서 점심을 먹었다. 지난번 어머니와 여행을 갈 때, 찾아놨던
+곳인데 여러 종류의 빵을 직접 구워서 각종 스프레드와 함께 먹을 수 있는 Bread
 Bar가 특이했다. 아이들은 피자, 파스타 등을 골고루 시켜 먹었고, 나는 수프와
 샐러드를 먹었다.
 
@@ -17,32 +19,32 @@ Grassi Lakes에 올라가 보기로 했다. 올라가다 보니, 7년 전 여행
 당시 곰도 봤다. 훌쩍 커버린 아이들과 다시 올라가는 느낌이 생경하기도 하고
 뿌듯하기도 했다.
 
-![]({{ '/assets/images/2026_08_25_p1.jpg' | relative_url }})
-![]({{ '/assets/images/2026_08_25_p2.jpg' | relative_url }})
-![]({{ '/assets/images/2026_08_25_p3.jpg' | relative_url }})
-![]({{ '/assets/images/2026_08_25_p4.jpg' | relative_url }})
-
 전화기 사진 필터의 영향인지, 호수 물빛이 지나치게 비현실적으로 나왔다. 도담이는
 산을 오르다 지치고, 약간 탈수에 혈당이 떨어져서 기분이 나빠졌고, 햇님이 동글이와
 호수 주변을 둘러봤다.
-
-![]({{ '/assets/images/2026_08_25_p5.jpg' | relative_url }})
-![]({{ '/assets/images/2026_08_25_p6.jpg' | relative_url }})
-![]({{ '/assets/images/2026_08_25_p7.jpg' | relative_url }})
-![]({{ '/assets/images/2026_08_25_p8.jpg' | relative_url }})
 
 그럭저럭 체크인 시간이 되어, 에어비엔비에서 잡은 숙소에 들어왔다. 깨끗하게
 정리되어 있고, 주방 용품이 매우 잘 구비되어 있는 점이 좋았다. 아이들이 씻고
 정리하는 동안, 진원과 Safeway에 가서 장을 봐왔다. 아마 세계에서 주차장 전망이
 가장 좋은 마트가 아닌가 싶다.
 
-![]({{ '/assets/images/2026_08_25_p9.jpg' | relative_url }})
-*마트 주차장 뷰*
-
 이치반 라면, 워커리 같은 몇 가지 즉석식품으로 간단하게 저녁을 먹었다. 아이들은
 닌텐도 스위치를 TV에 연결해서 깔깔거리며 마리오 파티를 하고 놀았다. 내일
 아침은 새벽 5시 30분에 출발해야 해서 다들 일찍 잠자리에 들었다.
 
+![]({{ '/assets/images/2026_08_25_p1.jpg' | relative_url }})
+![]({{ '/assets/images/2026_08_25_p2.jpg' | relative_url }})
+![]({{ '/assets/images/2026_08_25_p3.jpg' | relative_url }})
+![]({{ '/assets/images/2026_08_25_p4.jpg' | relative_url }})
+![]({{ '/assets/images/2026_08_25_p5.jpg' | relative_url }})
+![]({{ '/assets/images/2026_08_25_p6.jpg' | relative_url }})
+![]({{ '/assets/images/2026_08_25_p7.jpg' | relative_url }})
+![]({{ '/assets/images/2026_08_25_p8.jpg' | relative_url }})
+
+![]({{ '/assets/images/2026_08_25_p9.jpg' | relative_url }})
+*마트 주차장 뷰*
+
 ![]({{ '/assets/images/2026_08_25_p10.jpg' | relative_url }})
-![]({{ '/assets/images/2026_08_25_p11.jpg' | relative_url }})
 *2019년 5월. 햇님이 9살, 도담이 5살 무렵*
+
+![]({{ '/assets/images/2026_08_25_p11.jpg' | relative_url }})
