@@ -33,12 +33,19 @@ Grassi Lakes에 올라가 보기로 했다. 올라가다 보니, 7년 전 여행
 아침은 새벽 5시 30분에 출발해야 해서 다들 일찍 잠자리에 들었다.
 
 ![]({{ '/assets/images/2026_08_25_p1.jpg' | relative_url }})
+
 ![]({{ '/assets/images/2026_08_25_p2.jpg' | relative_url }})
+
 ![]({{ '/assets/images/2026_08_25_p3.jpg' | relative_url }})
+
 ![]({{ '/assets/images/2026_08_25_p4.jpg' | relative_url }})
+
 ![]({{ '/assets/images/2026_08_25_p5.jpg' | relative_url }})
+
 ![]({{ '/assets/images/2026_08_25_p6.jpg' | relative_url }})
+
 ![]({{ '/assets/images/2026_08_25_p7.jpg' | relative_url }})
+
 ![]({{ '/assets/images/2026_08_25_p8.jpg' | relative_url }})
 
 ![]({{ '/assets/images/2026_08_25_p9.jpg' | relative_url }})
