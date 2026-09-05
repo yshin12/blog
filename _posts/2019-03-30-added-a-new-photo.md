@@ -1,5 +1,5 @@
 ---
-title: "결항된 비행기와 16세기 농장 Btitle: "비행기"B의 인연"
+title: "결항된 비행기와 16세기 농장 B&B의 인연"
 date: "2019-03-30"
 category: facebook
 ---
