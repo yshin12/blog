@@ -1,6 +1,6 @@
 ---
 title: Banff 2026 - Day 2
-date: 2026-08-25, Tuesday
+date: 2026-08-26, Wednesday
 category:
     - 여행
 ---
