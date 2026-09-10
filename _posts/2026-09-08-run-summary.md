@@ -51,21 +51,28 @@ kilometre, settling into the mid-120s, peaking at 129 bpm in the steady block.
 That is the bottom of the 70–81 % max HR window (123–143 bpm) — genuinely easy
 work, with the drift attributable to humidity rather than pace.
 
-Then **9 strides** of ~160 m off jog recoveries, with a 0.4 km jog splitting the
-two sets. Stride paces were 3:16, 3:14, 3:09, 3:05, 3:04 // 3:04, 3:04, 3:17,
-3:15 /km (≈5:15–5:16 /mi at best) — right on the speed band of 3:20–3:37 /km
-(5:22–5:49 /mi) and a touch quicker. Cadence hit 188–202 spm with stride length
-opening to 1.44–1.57 m, and peak turnover touched 220 spm. HR only reached 165 bpm
-on the last set, confirming these stayed neuromuscular rather than anaerobic.
+Then **10 strides** of ~150–160 m off 250 m jog recoveries. Rep times were 30.98,
+31.75, 30.70, 30.53, 29.49 // ~29.8, 28.99, 30.09, 31.51, 30.76 s — averaging
+**30.5 s**, squarely in the 30–32 s window a 150 m stride should take. Rep 6 does
+not appear as its own lap: the button was missed at the end of the preceding jog,
+so Garmin merged that recovery and the stride into one 0.40 km / 2:02 split (best
+pace 2:45 /km, max cadence 220 spm, max HR 165 — the run's highest). Backing the
+jog out at the neighbouring 6:26 /km leaves ~160 m in ~29.8 s, in line with the
+other nine. Cadence hit 188–202 spm with stride length opening to 1.44–1.57 m.
+HR only reached 165 bpm, confirming these stayed neuromuscular rather than
+anaerobic. Set 1 averaged 30.69 s, set 2 averaged 30.23 s — quality held.
 
 ### Plan adherence
 
 Week 4 to goal (Sep 7 – Sep 13) prescribes for Tuesday: **general aerobic + speed,
 16 km (10 mi), 2 sets of 5 × 150 m strides with 250 m jog recovery and 4 min between
-sets.** Actual: 16.51 km (10.26 mi) with 9 × ~160 m strides in two sets and a jog
-between them. That is essentially a full hit — distance on target, stride volume one
-rep short, recovery structure correct. The aerobic block being run as a progression
-rather than flat is a small bonus, not a deviation.
+sets.** Actual: 16.51 km (10.26 mi) with all **10 strides** and 250 m jog recoveries.
+That is a full hit — distance, rep count and rep duration all on target. The one
+deviation is the 4 min between-sets recovery, which was not taken: the gap between
+rep 5 and rep 6 was ~1:33, the same as every other recovery, so the block was run
+as a continuous 10 rather than 2 sets of 5. It cost nothing today (set 2 was
+marginally faster than set 1). The aerobic block being run as a progression rather
+than flat is a small bonus, not a deviation.
 
 Monday was taken as full rest, which is on-plan. With the **8K–10K tune-up race on
 Saturday Sep 12**, this was the right day to wake the legs up without cost.
